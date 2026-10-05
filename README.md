@@ -25,7 +25,7 @@ Every episode has its own folder with its own README, code and data.
 | # | Episode | Tools | Status |
 |---|---------|-------|--------|
 | 1 | [Dead stock detection](episode-1) | SQL | Published |
-| 2 | Procurement lag detection | Python | Coming soon |
+| 2 | [Procurement lag detection](episode-2) | Python | Published |
 | 3 | SKU-level margin analysis | SQL, DAX | Coming soon |
 | 4 | Seasonal demand forecasting | Python | Coming soon |
 | 5 | Repeat purchase cohorts | SQL | Coming soon |
