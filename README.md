@@ -26,7 +26,7 @@ Every episode has its own folder with its own README, code and data.
 |---|---------|-------|--------|
 | 1 | [Dead stock detection](episode-1) | SQL | Published |
 | 2 | [Procurement lag detection](episode-2) | Python | Published |
-| 3 | SKU-level margin | [SQL + DAX](episode-3/README.md) | Published |
+| 3  | [SKU-level margin](https://github.com/JaiswalAnalytics/from-the-floor-to-the-query/blob/main/episode-3) | SQL + DAX | Published |
 | 4 | Seasonal demand forecasting | Python | Coming soon |
 | 5 | Repeat purchase cohorts | SQL | Coming soon |
 | 6 | Unit economics of a retail store | Full model | Coming soon |
