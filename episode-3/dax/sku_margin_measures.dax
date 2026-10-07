@@ -1,0 +1,25 @@
+// Episode 3: DAX measures for SKU margin.
+// STATUS: NOT RUN. DAX cannot be executed in this environment. Written and checked by logic only.
+// Verify in Power BI against sql/sku_margin.sql: total revenue 19,640,531 | gross profit 1,249,092 | margin 6.4%
+// Model: sales_lines (fact) many-to-one to skus (dimension) on sku_id.
+
+Revenue = SUMX ( sales_lines, sales_lines[qty] * sales_lines[unit_price] )
+
+COGS = SUMX ( sales_lines, sales_lines[qty] * RELATED ( skus[cost_price] ) )
+
+Gross Profit = [Revenue] - [COGS]
+
+Margin % = DIVIDE ( [Gross Profit], [Revenue] )
+
+Revenue Rank = RANKX ( ALL ( skus[sku_name] ), [Revenue], , DESC, Skip )
+
+Profit Rank = RANKX ( ALL ( skus[sku_name] ), [Gross Profit], , DESC, Skip )
+
+Cum Profit % =
+VAR p = [Gross Profit]
+VAR running =
+    SUMX ( FILTER ( ALL ( skus[sku_name] ), [Gross Profit] >= p ), [Gross Profit] )
+RETURN
+    DIVIDE ( running, CALCULATE ( [Gross Profit], ALL ( skus ) ) )
+
+// Expected check values (from the SQL): Cement OPC 53 -> Revenue Rank 1, Profit Rank 13, Margin % 1.5%

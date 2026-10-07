@@ -1,0 +1,51 @@
+sku_id,sku_name,category,cost_price,list_price
+S01,Cement OPC 53 (50kg bag),Cement,365,376.0
+S02,Cement PPC (50kg bag),Cement,345,359.0
+S03,White Cement (5kg),Cement,160,189.0
+S04,TMT Bar 8mm (per kg),Steel,58,61.0
+S05,TMT Bar 12mm (per kg),Steel,57,60.0
+S06,TMT Bar 16mm (per kg),Steel,57,60.0
+S07,Binding Wire (per kg),Steel,70,80.0
+S08,MS Angle 40mm (piece),Steel,640,698.0
+S09,River Sand (per cft),Aggregates,38,43.0
+S10,Gravel 20mm (per cft),Aggregates,34,38.0
+S11,Red Bricks (per 1000),Aggregates,7200,7776.0
+S12,Floor Tile 2x2 (box),Tiles,520,634.0
+S13,Wall Tile 1x1.5 (box),Tiles,380,471.0
+S14,Vitrified Tile 4x2 (box),Tiles,1250,1500.0
+S15,Tile Adhesive (20kg),Tiles,310,391.0
+S16,Tile Grout (1kg),Tiles,95,128.0
+S17,Primer (20L),Paints,2400,2784.0
+S18,Emulsion (20L),Paints,4100,4838.0
+S19,Distemper (20kg),Paints,1050,1228.0
+S20,Wall Putty (40kg),Paints,780,944.0
+S21,Enamel Paint (1L),Paints,420,525.0
+S22,Paint Brush 4in,Paints,80,112.0
+S23,Waterproofing Chemical (5L),Paints,780,998.0
+S24,Wash Basin,Sanitary,1400,1750.0
+S25,WC Pan,Sanitary,2600,3172.0
+S26,Bib Cock Tap,Sanitary,260,359.0
+S27,Shower Set,Sanitary,900,1215.0
+S28,Water Tank 500L,Sanitary,4200,4704.0
+S29,Health Faucet,Sanitary,380,532.0
+S30,PVC Pipe 4in (3m),Pipes,520,577.0
+S31,CPVC Pipe 1in (3m),Pipes,310,356.0
+S32,PVC Elbow 4in,Pipes,55,76.0
+S33,Solvent Cement (250ml),Pipes,120,160.0
+S34,GI Pipe 1in (6m),Pipes,1450,1595.0
+S35,Wire 1.5mm (90m coil),Electrical,1300,1469.0
+S36,Wire 2.5mm (90m coil),Electrical,2050,2316.0
+S37,MCB 16A,Electrical,210,273.0
+S38,Switch 6A,Electrical,38,54.0
+S39,LED Bulb 9W,Electrical,85,117.0
+S40,Conduit Pipe 25mm (3m),Electrical,48,61.0
+S41,Nails 2in (per kg),Hardware,82,98.0
+S42,Door Hinge 4in (pair),Hardware,140,189.0
+S43,Padlock 65mm,Hardware,190,266.0
+S44,Screws (box of 100),Hardware,60,87.0
+S45,Door Handle,Hardware,450,621.0
+S46,Hammer,Hardware,260,338.0
+S47,Drill Bit Set,Hardware,420,571.0
+S48,Wood Adhesive (1kg),Hardware,210,277.0
+S49,Plywood 8x4 18mm,Hardware,3300,3762.0
+S50,Flush Door 7x3,Hardware,2900,3335.0

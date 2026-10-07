@@ -1,0 +1,51 @@
+sku_name,category,revenue,gross_profit,margin_pct,revenue_rank,profit_rank,cum_profit_pct
+Red Bricks (per 1000),Aggregates,1834246.0,113446.0,6.2,6,1,9.1
+River Sand (per cft),Aggregates,1066336.0,109800.0,10.3,7,2,17.9
+TMT Bar 12mm (per kg),Steel,2228479.0,82030.0,3.7,4,3,24.4
+TMT Bar 8mm (per kg),Steel,2357836.0,81684.0,3.5,3,4,31.0
+Gravel 20mm (per cft),Aggregates,813793.0,74735.0,9.2,8,5,37.0
+TMT Bar 16mm (per kg),Steel,2171371.0,70351.0,3.2,5,6,42.6
+Cement PPC (50kg bag),Cement,2431106.0,60611.0,2.5,2,7,47.4
+Plywood 8x4 18mm,Hardware,485617.0,53317.0,11.0,9,8,51.7
+Emulsion (20L),Paints,348279.0,48979.0,14.1,12,9,55.6
+Floor Tile 2x2 (box),Tiles,265949.0,44429.0,16.7,13,10,59.2
+Wire 2.5mm (90m coil),Electrical,420234.0,40984.0,9.8,10,11,62.5
+Vitrified Tile 4x2 (box),Tiles,248227.0,38227.0,15.4,14,12,65.5
+Cement OPC 53 (50kg bag),Cement,2471724.0,37539.0,1.5,1,13,68.5
+Wire 1.5mm (90m coil),Electrical,349513.0,34913.0,10.0,11,14,71.3
+Wall Tile 1x1.5 (box),Tiles,176499.0,32479.0,18.4,17,15,73.9
+Primer (20L),Paints,206631.0,26631.0,12.9,15,16,76.1
+Tile Adhesive (20kg),Tiles,120413.0,23383.0,19.4,21,17,77.9
+Wall Putty (40kg),Paints,144235.0,23335.0,16.2,19,18,79.8
+CPVC Pipe 1in (3m),Pipes,172295.0,20395.0,11.8,18,19,81.4
+Waterproofing Chemical (5L),Paints,84879.0,17799.0,21.0,22,20,82.9
+PVC Pipe 4in (3m),Pipes,184780.0,16300.0,8.8,16,21,84.2
+Enamel Paint (1L),Paints,78105.0,15105.0,19.3,24,22,85.4
+Bib Cock Tap,Sanitary,53895.0,14375.0,26.7,26,23,86.5
+MCB 16A,Electrical,63878.0,14108.0,22.1,25,24,87.7
+PVC Elbow 4in,Pipes,50541.0,13471.0,26.7,27,25,88.7
+Switch 6A,Electrical,39038.0,11260.0,28.8,33,26,89.6
+Distemper (20kg),Paints,83420.0,10970.0,13.1,23,27,90.5
+GI Pipe 1in (6m),Pipes,135572.0,10872.0,8.0,20,28,91.4
+Health Faucet,Sanitary,36292.0,9692.0,26.7,35,29,92.2
+LED Bulb 9W,Electrical,36782.0,9667.0,26.3,34,30,92.9
+Conduit Pipe 25mm (3m),Electrical,48897.0,9441.0,19.3,28,31,93.7
+WC Pan,Sanitary,44274.0,7874.0,17.8,30,32,94.3
+Wash Basin,Sanitary,41122.0,7522.0,18.3,32,33,94.9
+Door Hinge 4in (pair),Hardware,29105.0,7125.0,24.5,37,34,95.5
+Wood Adhesive (1kg),Hardware,25178.0,5858.0,23.3,38,35,96.0
+Padlock 65mm,Hardware,19849.0,5409.0,27.3,41,36,96.4
+Flush Door 7x3,Hardware,42779.0,5079.0,11.9,31,37,96.8
+Solvent Cement (250ml),Pipes,21096.0,4896.0,23.2,39,38,97.2
+Water Tank 500L,Sanitary,46880.0,4880.0,10.4,29,39,97.6
+Shower Set,Sanitary,19160.0,4760.0,24.8,42,40,98.0
+Door Handle,Hardware,15997.0,4297.0,26.9,44,41,98.3
+Tile Grout (1kg),Tiles,15064.0,3759.0,25.0,45,42,98.6
+Screws (box of 100),Hardware,10652.0,3212.0,30.2,47,43,98.9
+Nails 2in (per kg),Hardware,17926.0,2756.0,15.4,43,44,99.1
+Binding Wire (per kg),Steel,20286.0,2296.0,11.3,40,45,99.3
+Paint Brush 4in,Paints,8095.0,2255.0,27.9,49,46,99.5
+MS Angle 40mm (piece),Steel,29612.0,2092.0,7.1,36,47,99.6
+Drill Bit Set,Hardware,8340.0,2040.0,24.5,48,48,99.8
+White Cement (5kg),Cement,10981.0,1541.0,14.0,46,49,99.9
+Hammer,Hardware,5273.0,1113.0,21.1,50,50,100.0

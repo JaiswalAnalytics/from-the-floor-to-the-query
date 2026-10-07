@@ -1,0 +1,15 @@
+"""Runs sql/sku_margin.sql on the CSVs with DuckDB and saves results/sku_margin.csv"""
+import duckdb, pandas as pd
+con = duckdb.connect()
+con.execute("CREATE VIEW sales_lines AS SELECT * FROM read_csv_auto('data/sales_lines.csv')")
+con.execute("CREATE VIEW skus AS SELECT * FROM read_csv_auto('data/skus.csv')")
+res = con.execute(open("sql/sku_margin.sql").read()).df()
+res.to_csv("results/sku_margin.csv", index=False)
+pd.set_option("display.width", 220); pd.set_option("display.max_rows", 100)
+print(res.to_string(index=False))
+tot_r, tot_p = res.revenue.sum(), res.gross_profit.sum()
+print("\nTotal revenue", tot_r, "gross profit", tot_p, "blended margin %", round(100*tot_p/tot_r, 2))
+print("Negative-profit SKUs:", (res.gross_profit < 0).sum(), "| below 5% margin:", (res.margin_pct < 5).sum())
+top5r = res.nlargest(5, "revenue"); print("Top5 by revenue: share of revenue %", round(100*top5r.revenue.sum()/tot_r,1), "share of profit %", round(100*top5r.gross_profit.sum()/tot_p,1))
+top5p = res.nlargest(5, "gross_profit"); print("Top5 by profit: share of profit %", round(100*top5p.gross_profit.sum()/tot_p,1), "share of revenue %", round(100*top5p.revenue.sum()/tot_r,1))
+n80 = (res.cum_profit_pct < 80).sum() + 1; print("SKUs to reach 80% of profit:", n80)
