@@ -1,0 +1,19 @@
+sku,method,wape_pct,bias_pct,net_stock_rs,abs_err_rs,actual_rs
+Cement OPC 53 (50kg bag),moving_avg,26.09,25.66,719050.0,730973.33,2801740.0
+Cement OPC 53 (50kg bag),seasonal_naive,10.53,-9.95,-278860.0,294920.0,2801740.0
+Cement OPC 53 (50kg bag),trend_x_index,6.97,-0.34,-9610.29,195269.91,2801740.0
+Emulsion Paint (20L),moving_avg,32.79,32.79,328000.0,328000.0,1000400.0
+Emulsion Paint (20L),seasonal_naive,14.34,-6.15,-61500.0,143500.0,1000400.0
+Emulsion Paint (20L),trend_x_index,11.51,4.58,45806.8,115108.86,1000400.0
+Floor Tile 2x2 (box),moving_avg,34.0,34.0,158600.0,158600.0,466440.0
+Floor Tile 2x2 (box),seasonal_naive,5.13,-3.57,-16640.0,23920.0,466440.0
+Floor Tile 2x2 (box),trend_x_index,6.33,1.18,5499.06,29532.47,466440.0
+River Sand (per cft),moving_avg,37.39,30.79,329764.0,400368.0,1070840.0
+River Sand (per cft),seasonal_naive,11.2,-9.11,-97584.0,119928.0,1070840.0
+River Sand (per cft),trend_x_index,7.63,-7.54,-80793.19,81674.49,1070840.0
+TMT Bar 12mm (per kg),moving_avg,18.67,18.62,389994.0,391134.0,2094978.0
+TMT Bar 12mm (per kg),seasonal_naive,5.87,-0.64,-13452.0,123006.0,2094978.0
+TMT Bar 12mm (per kg),trend_x_index,5.51,3.45,72277.25,115500.01,2094978.0
+Wall Putty (40kg),moving_avg,20.69,18.78,81900.0,90220.0,436020.0
+Wall Putty (40kg),seasonal_naive,6.08,-2.15,-9360.0,26520.0,436020.0
+Wall Putty (40kg),trend_x_index,7.52,2.31,10057.67,32807.43,436020.0
