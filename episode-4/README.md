@@ -32,7 +32,7 @@ If you forecast the next 6 months on 31 Mar 2026, how wrong is a plain moving av
 | **All 6 (value-weighted)** | **26.7%** | **9.3%** | **7.2%** |
 
 - Plain 3-month average: 26.7% error, and every SKU ends September with extra stock. Net build-up across the 6 SKUs: **₹20,07,308** at cost.
-- Trend x seasonal index: 7.2% error, net stock within ₹43,237 of real demand.
+- Trend x seasonal index: 7.2% error. Net stock ends ₹43,237 above real demand across the 6 SKUs (individual SKUs range from -₹80,792 to +₹72,276).
 - Copying last year's month scores 9.3%. It is a strong baseline and beats trend x index on 2 of 6 SKUs (Floor Tile, Wall Putty). But it ignores growth, so it under-orders by ₹4,77,396 in net.
 - Cement OPC 53: the average said 1,608 bags a month. July sold 1,077 and August 939.
 
