@@ -1,0 +1,4 @@
+customer_type,orders,revenue,gross_profit,gross_margin_pct,contribution,contribution_margin_pct,contribution_per_order
+Contractor,1775,27936870.0,1544228.0,5.5,311802.0,1.1,176.0
+Homeowner,1245,9119540.0,903320.0,9.9,645160.0,7.1,518.0
+Small repair,630,1231470.0,170471.0,13.8,161011.0,13.1,256.0
