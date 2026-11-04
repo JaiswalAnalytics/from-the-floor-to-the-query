@@ -1,0 +1,1618 @@
+customer_id,recency_days,frequency,monetary,r_score,f_score,m_score,segment
+C0001,188,2,3790.0,1,2,1,Lapsed one-timers
+C0002,19,3,25610.0,5,3,5,Loyal
+C0005,14,2,2460.0,5,2,1,Occasional
+C0006,23,3,21040.0,5,3,4,Loyal
+C0007,166,5,87080.0,2,4,5,At risk
+C0008,132,1,4100.0,2,1,1,Lapsed one-timers
+C0009,77,1,5500.0,3,1,2,Occasional
+C0010,283,2,3900.0,1,2,1,Lapsed one-timers
+C0011,156,3,5130.0,2,3,2,At risk
+C0013,150,6,74970.0,2,4,5,At risk
+C0015,361,1,6140.0,1,1,2,Lapsed one-timers
+C0016,188,1,5280.0,1,1,2,Lapsed one-timers
+C0018,291,1,5950.0,1,1,2,Lapsed one-timers
+C0020,198,4,59500.0,1,3,5,At risk
+C0021,179,2,2840.0,2,2,1,Lapsed one-timers
+C0022,72,4,6190.0,3,3,2,Loyal
+C0023,107,6,135260.0,2,4,5,At risk
+C0024,217,1,1330.0,1,1,1,Lapsed one-timers
+C0025,103,3,5980.0,2,3,2,At risk
+C0026,350,1,4560.0,1,1,2,Lapsed one-timers
+C0027,304,1,8190.0,1,1,3,Lapsed one-timers
+C0029,8,2,16000.0,5,2,4,Occasional
+C0031,230,2,9050.0,1,2,3,Lapsed one-timers
+C0034,69,1,3270.0,3,1,1,Occasional
+C0035,26,7,96360.0,5,4,5,Champions
+C0038,69,1,5080.0,3,1,2,Occasional
+C0041,253,2,35250.0,1,2,5,Lapsed one-timers
+C0042,217,1,5060.0,1,1,2,Lapsed one-timers
+C0043,90,2,8350.0,3,2,3,Occasional
+C0046,230,1,14920.0,1,1,4,Lapsed one-timers
+C0048,76,7,106140.0,3,4,5,Loyal
+C0049,142,1,5990.0,2,1,2,Lapsed one-timers
+C0051,15,2,17490.0,5,2,4,Occasional
+C0054,306,1,6710.0,1,1,2,Lapsed one-timers
+C0055,93,1,5270.0,2,1,2,Lapsed one-timers
+C0058,153,2,13780.0,2,2,4,Lapsed one-timers
+C0062,334,1,17090.0,1,1,4,Lapsed one-timers
+C0063,241,2,35300.0,1,2,5,Lapsed one-timers
+C0065,19,6,80590.0,5,4,5,Champions
+C0066,187,3,41580.0,1,3,5,At risk
+C0068,279,3,44860.0,1,3,5,At risk
+C0069,35,1,4310.0,4,1,1,New
+C0070,253,1,5490.0,1,1,2,Lapsed one-timers
+C0071,27,5,59600.0,5,4,5,Champions
+C0072,65,7,127370.0,3,4,5,Loyal
+C0074,339,1,14120.0,1,1,4,Lapsed one-timers
+C0078,96,7,87040.0,2,4,5,At risk
+C0080,105,2,17630.0,2,2,4,Lapsed one-timers
+C0081,148,1,9790.0,2,1,3,Lapsed one-timers
+C0082,105,1,6130.0,2,1,2,Lapsed one-timers
+C0085,264,1,1360.0,1,1,1,Lapsed one-timers
+C0089,265,1,15750.0,1,1,4,Lapsed one-timers
+C0091,175,1,5460.0,2,1,2,Lapsed one-timers
+C0092,6,9,133590.0,5,5,5,Champions
+C0093,7,8,144250.0,5,5,5,Champions
+C0094,280,1,8430.0,1,1,3,Lapsed one-timers
+C0095,32,3,5360.0,4,3,2,Loyal
+C0096,154,3,24170.0,2,3,5,At risk
+C0097,245,1,23780.0,1,1,5,Lapsed one-timers
+C0100,252,1,7100.0,1,1,3,Lapsed one-timers
+C0101,9,1,7910.0,5,1,3,New
+C0102,227,1,6610.0,1,1,2,Lapsed one-timers
+C0104,147,1,5010.0,2,1,2,Lapsed one-timers
+C0107,60,1,3270.0,4,1,1,New
+C0108,269,1,2220.0,1,1,1,Lapsed one-timers
+C0109,129,1,780.0,2,1,1,Lapsed one-timers
+C0110,13,7,121070.0,5,4,5,Champions
+C0111,107,1,6820.0,2,1,3,Lapsed one-timers
+C0112,287,1,2870.0,1,1,1,Lapsed one-timers
+C0118,50,6,82930.0,4,4,5,Champions
+C0119,62,1,8020.0,3,1,3,Occasional
+C0120,71,4,95700.0,3,3,5,Loyal
+C0121,258,3,3070.0,1,3,1,At risk
+C0124,136,5,118080.0,2,4,5,At risk
+C0125,51,1,4490.0,4,1,2,New
+C0126,35,4,9470.0,4,3,3,Loyal
+C0127,110,3,49400.0,2,3,5,At risk
+C0128,279,2,24080.0,1,2,5,Lapsed one-timers
+C0130,321,1,14830.0,1,1,4,Lapsed one-timers
+C0132,78,1,4930.0,3,1,2,Occasional
+C0133,99,7,83920.0,2,4,5,At risk
+C0134,211,1,6950.0,1,1,3,Lapsed one-timers
+C0137,67,2,4070.0,3,2,1,Occasional
+C0138,227,1,15840.0,1,1,4,Lapsed one-timers
+C0139,306,1,3610.0,1,1,1,Lapsed one-timers
+C0142,343,1,7900.0,1,1,3,Lapsed one-timers
+C0143,202,1,1360.0,1,1,1,Lapsed one-timers
+C0145,8,1,3680.0,5,1,1,New
+C0148,241,2,11040.0,1,2,4,Lapsed one-timers
+C0149,17,6,103980.0,5,4,5,Champions
+C0150,83,1,6800.0,3,1,3,Occasional
+C0151,14,8,130840.0,5,5,5,Champions
+C0153,252,1,1040.0,1,1,1,Lapsed one-timers
+C0154,140,1,8710.0,2,1,3,Lapsed one-timers
+C0155,23,5,9300.0,5,4,3,Champions
+C0156,10,1,2740.0,5,1,1,New
+C0157,302,1,1640.0,1,1,1,Lapsed one-timers
+C0158,138,4,63240.0,2,3,5,At risk
+C0163,56,5,65120.0,4,4,5,Champions
+C0167,67,3,6340.0,3,3,2,Loyal
+C0168,28,6,76710.0,5,4,5,Champions
+C0170,18,4,30710.0,5,3,5,Loyal
+C0171,125,2,5590.0,2,2,2,Lapsed one-timers
+C0172,123,1,6760.0,2,1,2,Lapsed one-timers
+C0173,113,1,5070.0,2,1,2,Lapsed one-timers
+C0175,112,8,130760.0,2,5,5,At risk
+C0182,88,2,14270.0,3,2,4,Occasional
+C0186,179,2,19520.0,2,2,4,Lapsed one-timers
+C0187,150,1,8070.0,2,1,3,Lapsed one-timers
+C0188,213,1,2490.0,1,1,1,Lapsed one-timers
+C0189,155,1,1890.0,2,1,1,Lapsed one-timers
+C0190,24,8,106390.0,5,5,5,Champions
+C0192,23,3,8410.0,5,3,3,Loyal
+C0193,24,3,7470.0,5,3,3,Loyal
+C0194,37,3,23940.0,4,3,5,Loyal
+C0195,26,2,14170.0,5,2,4,Occasional
+C0196,136,3,44180.0,2,3,5,At risk
+C0197,327,1,25250.0,1,1,5,Lapsed one-timers
+C0198,239,1,4970.0,1,1,2,Lapsed one-timers
+C0199,326,1,1930.0,1,1,1,Lapsed one-timers
+C0200,99,1,12130.0,2,1,4,Lapsed one-timers
+C0201,118,1,4120.0,2,1,1,Lapsed one-timers
+C0207,159,4,37970.0,2,3,5,At risk
+C0210,12,2,10070.0,5,2,3,Occasional
+C0214,216,3,36020.0,1,3,5,At risk
+C0215,166,1,12640.0,2,1,4,Lapsed one-timers
+C0216,243,1,11090.0,1,1,4,Lapsed one-timers
+C0217,118,1,2670.0,2,1,1,Lapsed one-timers
+C0218,29,9,151580.0,5,5,5,Champions
+C0219,108,1,960.0,2,1,1,Lapsed one-timers
+C0220,353,1,34170.0,1,1,5,Lapsed one-timers
+C0221,276,2,16370.0,1,2,4,Lapsed one-timers
+C0223,109,2,20180.0,2,2,4,Lapsed one-timers
+C0227,208,3,38420.0,1,3,5,At risk
+C0228,147,1,4800.0,2,1,2,Lapsed one-timers
+C0229,224,2,16030.0,1,2,4,Lapsed one-timers
+C0231,132,1,1200.0,2,1,1,Lapsed one-timers
+C0233,144,6,62350.0,2,4,5,At risk
+C0235,37,2,12750.0,4,2,4,Occasional
+C0236,348,1,3160.0,1,1,1,Lapsed one-timers
+C0237,26,9,141240.0,5,5,5,Champions
+C0240,224,2,16720.0,1,2,4,Lapsed one-timers
+C0241,19,7,80870.0,5,4,5,Champions
+C0244,300,1,9280.0,1,1,3,Lapsed one-timers
+C0246,2,10,186480.0,5,5,5,Champions
+C0249,187,2,11930.0,1,2,4,Lapsed one-timers
+C0251,70,1,770.0,3,1,1,Occasional
+C0253,357,1,8790.0,1,1,3,Lapsed one-timers
+C0254,67,2,2650.0,3,2,1,Occasional
+C0255,27,9,15190.0,5,5,4,Champions
+C0257,319,1,9000.0,1,1,3,Lapsed one-timers
+C0258,64,2,14420.0,3,2,4,Occasional
+C0260,314,2,26160.0,1,2,5,Lapsed one-timers
+C0261,293,1,2460.0,1,1,1,Lapsed one-timers
+C0262,84,1,8810.0,3,1,3,Occasional
+C0264,138,2,2260.0,2,2,1,Lapsed one-timers
+C0265,32,1,6580.0,4,1,2,New
+C0266,68,3,25340.0,3,3,5,Loyal
+C0268,43,3,4820.0,4,3,2,Loyal
+C0270,119,1,5680.0,2,1,2,Lapsed one-timers
+C0272,92,2,10330.0,2,2,3,Lapsed one-timers
+C0273,254,1,5180.0,1,1,2,Lapsed one-timers
+C0274,40,1,5730.0,4,1,2,New
+C0279,12,7,119260.0,5,4,5,Champions
+C0281,91,1,5970.0,2,1,2,Lapsed one-timers
+C0282,167,1,4800.0,2,1,2,Lapsed one-timers
+C0283,67,2,3060.0,3,2,1,Occasional
+C0285,282,1,2700.0,1,1,1,Lapsed one-timers
+C0286,83,6,54190.0,3,4,5,Loyal
+C0287,21,7,89890.0,5,4,5,Champions
+C0288,113,6,79330.0,2,4,5,At risk
+C0289,277,1,7680.0,1,1,3,Lapsed one-timers
+C0290,262,1,3990.0,1,1,1,Lapsed one-timers
+C0291,197,1,7540.0,1,1,3,Lapsed one-timers
+C0292,50,6,113270.0,4,4,5,Champions
+C0293,94,3,36870.0,2,3,5,At risk
+C0294,180,3,17420.0,2,3,4,At risk
+C0296,327,1,22740.0,1,1,5,Lapsed one-timers
+C0297,194,2,14680.0,1,2,4,Lapsed one-timers
+C0298,164,3,5260.0,2,3,2,At risk
+C0300,40,7,87110.0,4,4,5,Champions
+C0301,287,1,5970.0,1,1,2,Lapsed one-timers
+C0302,37,10,130060.0,4,5,5,Champions
+C0303,154,1,5810.0,2,1,2,Lapsed one-timers
+C0304,279,1,2570.0,1,1,1,Lapsed one-timers
+C0306,18,9,119340.0,5,5,5,Champions
+C0307,199,2,10880.0,1,2,4,Lapsed one-timers
+C0308,153,4,5910.0,2,3,2,At risk
+C0311,105,4,4670.0,2,3,2,At risk
+C0312,16,5,73180.0,5,4,5,Champions
+C0313,228,1,2420.0,1,1,1,Lapsed one-timers
+C0314,315,1,7200.0,1,1,3,Lapsed one-timers
+C0315,24,1,8430.0,5,1,3,New
+C0317,11,7,122250.0,5,4,5,Champions
+C0318,263,4,40540.0,1,3,5,At risk
+C0319,320,2,41500.0,1,2,5,Lapsed one-timers
+C0320,275,1,2840.0,1,1,1,Lapsed one-timers
+C0321,2,5,96420.0,5,4,5,Champions
+C0322,172,1,4670.0,2,1,2,Lapsed one-timers
+C0324,218,3,40910.0,1,3,5,At risk
+C0325,47,4,9650.0,4,3,3,Loyal
+C0326,308,1,22560.0,1,1,5,Lapsed one-timers
+C0327,68,1,9580.0,3,1,3,Occasional
+C0329,171,1,7100.0,2,1,3,Lapsed one-timers
+C0331,54,2,2070.0,4,2,1,Occasional
+C0332,318,1,6030.0,1,1,2,Lapsed one-timers
+C0334,216,1,7200.0,1,1,3,Lapsed one-timers
+C0335,284,1,7010.0,1,1,3,Lapsed one-timers
+C0337,88,8,143290.0,3,5,5,Loyal
+C0339,15,8,152370.0,5,5,5,Champions
+C0341,2,1,8390.0,5,1,3,New
+C0342,215,1,3390.0,1,1,1,Lapsed one-timers
+C0343,60,5,61790.0,4,4,5,Champions
+C0344,24,8,104170.0,5,5,5,Champions
+C0346,106,7,91320.0,2,4,5,At risk
+C0348,155,1,860.0,2,1,1,Lapsed one-timers
+C0350,291,1,10330.0,1,1,3,Lapsed one-timers
+C0351,301,1,6370.0,1,1,2,Lapsed one-timers
+C0353,147,5,8450.0,2,4,3,At risk
+C0354,58,2,17270.0,4,2,4,Occasional
+C0355,232,4,44640.0,1,3,5,At risk
+C0356,21,4,51470.0,5,3,5,Loyal
+C0357,149,1,6430.0,2,1,2,Lapsed one-timers
+C0358,174,3,25940.0,2,3,5,At risk
+C0360,33,6,90330.0,4,4,5,Champions
+C0361,189,3,5560.0,1,3,2,At risk
+C0362,81,6,104930.0,3,4,5,Loyal
+C0363,41,2,10270.0,4,2,3,Occasional
+C0364,108,4,53670.0,2,3,5,At risk
+C0366,273,1,13140.0,1,1,4,Lapsed one-timers
+C0367,16,9,131830.0,5,5,5,Champions
+C0368,32,4,8540.0,4,3,3,Loyal
+C0371,83,1,3560.0,3,1,1,Occasional
+C0372,50,4,5800.0,4,3,2,Loyal
+C0373,89,2,27390.0,3,2,5,Occasional
+C0377,27,1,3090.0,5,1,1,New
+C0379,53,2,5350.0,4,2,2,Occasional
+C0380,210,2,8750.0,1,2,3,Lapsed one-timers
+C0381,118,2,7830.0,2,2,3,Lapsed one-timers
+C0382,344,1,5890.0,1,1,2,Lapsed one-timers
+C0385,51,2,21460.0,4,2,4,Occasional
+C0386,80,9,150060.0,3,5,5,Loyal
+C0388,198,1,3310.0,1,1,1,Lapsed one-timers
+C0390,137,4,80500.0,2,3,5,At risk
+C0393,25,1,10700.0,5,1,3,New
+C0394,147,6,75520.0,2,4,5,At risk
+C0395,100,2,12730.0,2,2,4,Lapsed one-timers
+C0396,161,1,3480.0,2,1,1,Lapsed one-timers
+C0398,320,1,3380.0,1,1,1,Lapsed one-timers
+C0400,4,1,6280.0,5,1,2,New
+C0404,307,1,19210.0,1,1,4,Lapsed one-timers
+C0405,29,1,1660.0,5,1,1,New
+C0408,320,1,8160.0,1,1,3,Lapsed one-timers
+C0411,53,7,97490.0,4,4,5,Champions
+C0412,307,1,3510.0,1,1,1,Lapsed one-timers
+C0414,69,1,4510.0,3,1,2,Occasional
+C0415,205,1,6970.0,1,1,3,Lapsed one-timers
+C0418,113,2,4850.0,2,2,2,Lapsed one-timers
+C0419,245,1,5200.0,1,1,2,Lapsed one-timers
+C0421,145,1,3580.0,2,1,1,Lapsed one-timers
+C0425,166,1,3940.0,2,1,1,Lapsed one-timers
+C0426,9,1,8670.0,5,1,3,New
+C0427,32,2,12250.0,4,2,4,Occasional
+C0428,314,2,26300.0,1,2,5,Lapsed one-timers
+C0429,131,1,4840.0,2,1,2,Lapsed one-timers
+C0430,30,9,146330.0,5,5,5,Champions
+C0432,7,3,5100.0,5,3,2,Loyal
+C0436,164,4,50910.0,2,3,5,At risk
+C0437,191,1,4240.0,1,1,1,Lapsed one-timers
+C0438,228,1,4870.0,1,1,2,Lapsed one-timers
+C0439,153,1,3960.0,2,1,1,Lapsed one-timers
+C0441,213,2,4560.0,1,2,2,Lapsed one-timers
+C0442,102,3,58990.0,2,3,5,At risk
+C0444,36,2,10680.0,4,2,3,Occasional
+C0447,243,2,7510.0,1,2,3,Lapsed one-timers
+C0449,142,7,116180.0,2,4,5,At risk
+C0450,98,8,145150.0,2,5,5,At risk
+C0452,311,1,7640.0,1,1,3,Lapsed one-timers
+C0453,39,5,95630.0,4,4,5,Champions
+C0454,61,2,10590.0,3,2,3,Occasional
+C0455,353,1,10070.0,1,1,3,Lapsed one-timers
+C0457,96,5,57400.0,2,4,5,At risk
+C0458,24,2,22940.0,5,2,5,Occasional
+C0460,298,1,6460.0,1,1,2,Lapsed one-timers
+C0461,306,1,6980.0,1,1,3,Lapsed one-timers
+C0462,330,2,14900.0,1,2,4,Lapsed one-timers
+C0465,364,1,9330.0,1,1,3,Lapsed one-timers
+C0466,100,1,1500.0,2,1,1,Lapsed one-timers
+C0468,13,1,6450.0,5,1,2,New
+C0469,223,2,32950.0,1,2,5,Lapsed one-timers
+C0470,1,7,145720.0,5,4,5,Champions
+C0474,109,6,104200.0,2,4,5,At risk
+C0475,69,1,3240.0,3,1,1,Occasional
+C0476,94,5,76250.0,2,4,5,At risk
+C0480,202,1,2660.0,1,1,1,Lapsed one-timers
+C0481,26,6,109670.0,5,4,5,Champions
+C0482,197,2,19230.0,1,2,4,Lapsed one-timers
+C0483,2,8,121400.0,5,5,5,Champions
+C0484,178,5,96940.0,2,4,5,At risk
+C0487,283,2,4060.0,1,2,1,Lapsed one-timers
+C0488,175,6,126370.0,2,4,5,At risk
+C0489,133,4,9440.0,2,3,3,At risk
+C0491,245,1,1020.0,1,1,1,Lapsed one-timers
+C0494,60,2,3380.0,4,2,1,Occasional
+C0495,360,1,9230.0,1,1,3,Lapsed one-timers
+C0498,75,5,127370.0,3,4,5,Loyal
+C0499,318,1,10260.0,1,1,3,Lapsed one-timers
+C0500,152,4,6220.0,2,3,2,At risk
+C0502,210,4,65490.0,1,3,5,At risk
+C0505,4,7,132500.0,5,4,5,Champions
+C0506,287,1,4130.0,1,1,1,Lapsed one-timers
+C0508,38,8,112820.0,4,5,5,Champions
+C0511,102,2,10540.0,2,2,3,Lapsed one-timers
+C0512,342,1,6280.0,1,1,2,Lapsed one-timers
+C0515,120,4,9740.0,2,3,3,At risk
+C0516,48,4,86290.0,4,3,5,Loyal
+C0517,238,2,5140.0,1,2,2,Lapsed one-timers
+C0519,57,3,5340.0,4,3,2,Loyal
+C0521,92,1,5700.0,2,1,2,Lapsed one-timers
+C0523,191,1,5230.0,1,1,2,Lapsed one-timers
+C0526,16,10,137460.0,5,5,5,Champions
+C0527,283,1,1960.0,1,1,1,Lapsed one-timers
+C0528,73,1,19480.0,3,1,4,Occasional
+C0530,71,2,3480.0,3,2,1,Occasional
+C0531,134,3,56930.0,2,3,5,At risk
+C0532,263,2,2880.0,1,2,1,Lapsed one-timers
+C0533,151,2,4360.0,2,2,1,Lapsed one-timers
+C0534,36,7,77940.0,4,4,5,Champions
+C0535,160,3,41940.0,2,3,5,At risk
+C0536,283,2,18060.0,1,2,4,Lapsed one-timers
+C0537,17,6,79660.0,5,4,5,Champions
+C0538,6,3,5690.0,5,3,2,Loyal
+C0542,362,1,7650.0,1,1,3,Lapsed one-timers
+C0544,258,1,13440.0,1,1,4,Lapsed one-timers
+C0546,96,1,4720.0,2,1,2,Lapsed one-timers
+C0547,18,1,2320.0,5,1,1,New
+C0548,354,1,13320.0,1,1,4,Lapsed one-timers
+C0550,50,1,9270.0,4,1,3,New
+C0551,189,3,6690.0,1,3,2,At risk
+C0552,224,2,3550.0,1,2,1,Lapsed one-timers
+C0556,18,3,19910.0,5,3,4,Loyal
+C0558,43,7,109740.0,4,4,5,Champions
+C0560,26,3,9030.0,5,3,3,Loyal
+C0566,334,1,910.0,1,1,1,Lapsed one-timers
+C0567,184,1,3270.0,1,1,1,Lapsed one-timers
+C0568,285,1,12610.0,1,1,4,Lapsed one-timers
+C0570,104,3,8320.0,2,3,3,At risk
+C0571,7,3,6080.0,5,3,2,Loyal
+C0572,84,1,3780.0,3,1,1,Occasional
+C0574,311,1,10240.0,1,1,3,Lapsed one-timers
+C0575,97,1,4150.0,2,1,1,Lapsed one-timers
+C0579,98,1,3380.0,2,1,1,Lapsed one-timers
+C0581,21,2,19140.0,5,2,4,Occasional
+C0582,143,4,7250.0,2,3,3,At risk
+C0583,63,8,161610.0,3,5,5,Loyal
+C0584,272,1,1730.0,1,1,1,Lapsed one-timers
+C0585,174,4,50550.0,2,3,5,At risk
+C0587,355,1,4700.0,1,1,2,Lapsed one-timers
+C0589,294,2,34760.0,1,2,5,Lapsed one-timers
+C0590,207,1,5340.0,1,1,2,Lapsed one-timers
+C0591,232,1,7050.0,1,1,3,Lapsed one-timers
+C0593,101,3,32160.0,2,3,5,At risk
+C0594,230,1,6920.0,1,1,3,Lapsed one-timers
+C0596,46,1,4770.0,4,1,2,New
+C0598,212,1,2010.0,1,1,1,Lapsed one-timers
+C0599,29,9,110930.0,5,5,5,Champions
+C0600,202,1,8690.0,1,1,3,Lapsed one-timers
+C0603,19,2,15700.0,5,2,4,Occasional
+C0605,15,1,6290.0,5,1,2,New
+C0606,13,5,85360.0,5,4,5,Champions
+C0610,176,1,5950.0,2,1,2,Lapsed one-timers
+C0612,139,4,30850.0,2,3,5,At risk
+C0613,158,2,8300.0,2,2,3,Lapsed one-timers
+C0615,186,2,2790.0,1,2,1,Lapsed one-timers
+C0616,239,1,8610.0,1,1,3,Lapsed one-timers
+C0617,1,1,14360.0,5,1,4,New
+C0622,103,4,6290.0,2,3,2,At risk
+C0624,96,3,5780.0,2,3,2,At risk
+C0625,1,4,8910.0,5,3,3,Loyal
+C0626,77,2,10290.0,3,2,3,Occasional
+C0629,319,1,3990.0,1,1,1,Lapsed one-timers
+C0631,11,5,66460.0,5,4,5,Champions
+C0636,209,1,9040.0,1,1,3,Lapsed one-timers
+C0638,38,7,123400.0,4,4,5,Champions
+C0639,262,1,11430.0,1,1,4,Lapsed one-timers
+C0640,137,1,3110.0,2,1,1,Lapsed one-timers
+C0641,93,1,5790.0,2,1,2,Lapsed one-timers
+C0642,16,1,8190.0,5,1,3,New
+C0644,230,2,15710.0,1,2,4,Lapsed one-timers
+C0645,343,1,3980.0,1,1,1,Lapsed one-timers
+C0646,36,7,124580.0,4,4,5,Champions
+C0647,151,1,5320.0,2,1,2,Lapsed one-timers
+C0648,24,3,6110.0,5,3,2,Loyal
+C0649,231,2,10180.0,1,2,3,Lapsed one-timers
+C0650,315,2,30510.0,1,2,5,Lapsed one-timers
+C0651,311,1,1280.0,1,1,1,Lapsed one-timers
+C0653,303,1,3940.0,1,1,1,Lapsed one-timers
+C0654,123,2,2880.0,2,2,1,Lapsed one-timers
+C0655,100,2,15970.0,2,2,4,Lapsed one-timers
+C0656,29,5,53350.0,5,4,5,Champions
+C0657,82,2,12040.0,3,2,4,Occasional
+C0660,19,8,99720.0,5,5,5,Champions
+C0663,88,2,22210.0,3,2,5,Occasional
+C0666,22,1,10560.0,5,1,3,New
+C0667,28,5,71080.0,5,4,5,Champions
+C0668,129,2,14040.0,2,2,4,Lapsed one-timers
+C0670,24,3,23260.0,5,3,5,Loyal
+C0672,7,3,8150.0,5,3,3,Loyal
+C0674,243,3,43630.0,1,3,5,At risk
+C0676,49,5,9810.0,4,4,3,Champions
+C0677,333,1,5740.0,1,1,2,Lapsed one-timers
+C0680,349,1,7240.0,1,1,3,Lapsed one-timers
+C0681,60,4,16050.0,4,3,4,Loyal
+C0682,231,3,69730.0,1,3,5,At risk
+C0685,329,2,36220.0,1,2,5,Lapsed one-timers
+C0687,72,2,16670.0,3,2,4,Occasional
+C0688,97,2,12510.0,2,2,4,Lapsed one-timers
+C0689,257,1,10360.0,1,1,3,Lapsed one-timers
+C0690,48,7,92970.0,4,4,5,Champions
+C0693,363,1,12650.0,1,1,4,Lapsed one-timers
+C0694,231,1,17060.0,1,1,4,Lapsed one-timers
+C0696,80,1,5530.0,3,1,2,Occasional
+C0697,314,1,4990.0,1,1,2,Lapsed one-timers
+C0698,211,1,6480.0,1,1,2,Lapsed one-timers
+C0699,119,3,7250.0,2,3,3,At risk
+C0700,12,8,94170.0,5,5,5,Champions
+C0701,340,1,6500.0,1,1,2,Lapsed one-timers
+C0702,339,1,9660.0,1,1,3,Lapsed one-timers
+C0703,270,2,13100.0,1,2,4,Lapsed one-timers
+C0704,336,1,10960.0,1,1,4,Lapsed one-timers
+C0705,32,7,95810.0,4,4,5,Champions
+C0706,6,6,101120.0,5,4,5,Champions
+C0707,228,2,7830.0,1,2,3,Lapsed one-timers
+C0708,358,1,1240.0,1,1,1,Lapsed one-timers
+C0709,358,1,5270.0,1,1,2,Lapsed one-timers
+C0710,218,3,7090.0,1,3,3,At risk
+C0711,352,1,3950.0,1,1,1,Lapsed one-timers
+C0712,123,2,11050.0,2,2,4,Lapsed one-timers
+C0713,350,1,5270.0,1,1,2,Lapsed one-timers
+C0714,124,6,97790.0,2,4,5,At risk
+C0715,202,2,11750.0,1,2,4,Lapsed one-timers
+C0716,246,2,16260.0,1,2,4,Lapsed one-timers
+C0717,343,1,4890.0,1,1,2,Lapsed one-timers
+C0718,9,7,80050.0,5,4,5,Champions
+C0719,146,2,18100.0,2,2,4,Lapsed one-timers
+C0720,123,2,13890.0,2,2,4,Lapsed one-timers
+C0721,364,1,9350.0,1,1,3,Lapsed one-timers
+C0722,105,2,14440.0,2,2,4,Lapsed one-timers
+C0723,355,1,2150.0,1,1,1,Lapsed one-timers
+C0724,303,2,4210.0,1,2,1,Lapsed one-timers
+C0725,58,2,16270.0,4,2,4,Occasional
+C0726,364,1,11790.0,1,1,4,Lapsed one-timers
+C0727,158,2,10630.0,2,2,3,Lapsed one-timers
+C0728,348,1,8910.0,1,1,3,Lapsed one-timers
+C0729,62,2,9710.0,3,2,3,Occasional
+C0730,52,8,134760.0,4,5,5,Champions
+C0731,7,8,116970.0,5,5,5,Champions
+C0732,64,2,8810.0,3,2,3,Occasional
+C0733,365,1,12300.0,1,1,4,Lapsed one-timers
+C0734,362,1,5620.0,1,1,2,Lapsed one-timers
+C0735,63,4,60400.0,3,3,5,Loyal
+C0736,351,1,14520.0,1,1,4,Lapsed one-timers
+C0737,22,6,10510.0,5,4,3,Champions
+C0738,86,5,71540.0,3,4,5,Loyal
+C0739,347,1,5750.0,1,1,2,Lapsed one-timers
+C0740,356,1,3080.0,1,1,1,Lapsed one-timers
+C0741,348,1,11480.0,1,1,4,Lapsed one-timers
+C0742,319,2,18090.0,1,2,4,Lapsed one-timers
+C0743,365,1,3220.0,1,1,1,Lapsed one-timers
+C0744,356,1,6700.0,1,1,2,Lapsed one-timers
+C0745,155,3,5380.0,2,3,2,At risk
+C0746,278,2,14180.0,1,2,4,Lapsed one-timers
+C0747,349,1,7730.0,1,1,3,Lapsed one-timers
+C0748,230,3,4600.0,1,3,2,At risk
+C0749,365,1,2690.0,1,1,1,Lapsed one-timers
+C0750,351,1,8680.0,1,1,3,Lapsed one-timers
+C0751,358,1,4290.0,1,1,1,Lapsed one-timers
+C0752,13,3,13310.0,5,3,4,Loyal
+C0753,253,2,17730.0,1,2,4,Lapsed one-timers
+C0754,25,7,88390.0,5,4,5,Champions
+C0755,337,1,6210.0,1,1,2,Lapsed one-timers
+C0756,240,2,4160.0,1,2,1,Lapsed one-timers
+C0757,355,1,4040.0,1,1,1,Lapsed one-timers
+C0758,188,2,8630.0,1,2,3,Lapsed one-timers
+C0759,362,1,5580.0,1,1,2,Lapsed one-timers
+C0760,346,1,10840.0,1,1,3,Lapsed one-timers
+C0761,14,2,4380.0,5,2,1,Occasional
+C0762,279,2,3320.0,1,2,1,Lapsed one-timers
+C0763,365,1,4800.0,1,1,2,Lapsed one-timers
+C0764,360,1,9110.0,1,1,3,Lapsed one-timers
+C0765,351,1,780.0,1,1,1,Lapsed one-timers
+C0766,337,1,13400.0,1,1,4,Lapsed one-timers
+C0767,109,2,10910.0,2,2,4,Lapsed one-timers
+C0768,145,2,5160.0,2,2,2,Lapsed one-timers
+C0769,31,4,39480.0,4,3,5,Loyal
+C0770,64,2,3260.0,3,2,1,Occasional
+C0771,344,1,4570.0,1,1,2,Lapsed one-timers
+C0772,344,1,6730.0,1,1,2,Lapsed one-timers
+C0773,212,3,3430.0,1,3,1,At risk
+C0774,77,2,13420.0,3,2,4,Occasional
+C0775,39,8,150280.0,4,5,5,Champions
+C0776,113,3,20680.0,2,3,4,At risk
+C0777,323,2,19920.0,1,2,4,Lapsed one-timers
+C0778,26,8,124920.0,5,5,5,Champions
+C0779,357,1,15670.0,1,1,4,Lapsed one-timers
+C0780,350,1,10100.0,1,1,3,Lapsed one-timers
+C0781,252,3,20270.0,1,3,4,At risk
+C0782,347,1,12370.0,1,1,4,Lapsed one-timers
+C0783,98,3,4990.0,2,3,2,At risk
+C0784,53,6,62250.0,4,4,5,Champions
+C0785,212,2,12240.0,1,2,4,Lapsed one-timers
+C0786,70,6,101290.0,3,4,5,Loyal
+C0787,53,6,131650.0,4,4,5,Champions
+C0788,146,2,10240.0,2,2,3,Lapsed one-timers
+C0789,198,4,7490.0,1,3,3,At risk
+C0790,355,1,4740.0,1,1,2,Lapsed one-timers
+C0791,30,7,101820.0,5,4,5,Champions
+C0792,274,2,10240.0,1,2,3,Lapsed one-timers
+C0793,9,3,7120.0,5,3,3,Loyal
+C0794,69,4,8170.0,3,3,3,Loyal
+C0795,14,3,18340.0,5,3,4,Loyal
+C0796,225,2,11820.0,1,2,4,Lapsed one-timers
+C0797,306,1,3010.0,1,1,1,Lapsed one-timers
+C0798,326,1,4910.0,1,1,2,Lapsed one-timers
+C0799,109,2,9460.0,2,2,3,Lapsed one-timers
+C0800,310,1,5360.0,1,1,2,Lapsed one-timers
+C0801,329,1,3690.0,1,1,1,Lapsed one-timers
+C0802,142,3,15290.0,2,3,4,At risk
+C0803,267,2,37160.0,1,2,5,Lapsed one-timers
+C0804,314,1,6600.0,1,1,2,Lapsed one-timers
+C0805,329,1,4860.0,1,1,2,Lapsed one-timers
+C0806,167,2,12300.0,2,2,4,Lapsed one-timers
+C0807,45,3,9770.0,4,3,3,Loyal
+C0808,126,2,12310.0,2,2,4,Lapsed one-timers
+C0809,93,2,17880.0,2,2,4,Lapsed one-timers
+C0810,185,2,8880.0,1,2,3,Lapsed one-timers
+C0811,114,7,122810.0,2,4,5,At risk
+C0812,148,3,5050.0,2,3,2,At risk
+C0813,277,2,16670.0,1,2,4,Lapsed one-timers
+C0814,22,9,136180.0,5,5,5,Champions
+C0815,27,3,18870.0,5,3,4,Loyal
+C0816,101,2,10680.0,2,2,3,Lapsed one-timers
+C0817,53,5,69670.0,4,4,5,Champions
+C0818,3,2,16310.0,5,2,4,Occasional
+C0819,177,5,69700.0,2,4,5,At risk
+C0820,60,3,16420.0,4,3,4,Loyal
+C0821,262,3,15430.0,1,3,4,At risk
+C0822,184,2,18690.0,1,2,4,Lapsed one-timers
+C0823,322,1,1990.0,1,1,1,Lapsed one-timers
+C0824,201,2,9960.0,1,2,3,Lapsed one-timers
+C0825,17,6,124500.0,5,4,5,Champions
+C0826,24,2,23680.0,5,2,5,Occasional
+C0827,325,1,2940.0,1,1,1,Lapsed one-timers
+C0828,310,1,4020.0,1,1,1,Lapsed one-timers
+C0829,322,1,9080.0,1,1,3,Lapsed one-timers
+C0830,312,1,12430.0,1,1,4,Lapsed one-timers
+C0831,325,1,3820.0,1,1,1,Lapsed one-timers
+C0832,226,4,64810.0,1,3,5,At risk
+C0833,310,1,6950.0,1,1,3,Lapsed one-timers
+C0834,232,2,5400.0,1,2,2,Lapsed one-timers
+C0835,318,1,3910.0,1,1,1,Lapsed one-timers
+C0836,90,5,116420.0,3,4,5,Loyal
+C0837,325,1,7070.0,1,1,3,Lapsed one-timers
+C0838,318,1,6330.0,1,1,2,Lapsed one-timers
+C0839,159,2,6570.0,2,2,2,Lapsed one-timers
+C0840,240,2,12690.0,1,2,4,Lapsed one-timers
+C0841,321,1,12700.0,1,1,4,Lapsed one-timers
+C0842,329,1,4430.0,1,1,1,Lapsed one-timers
+C0843,244,2,20140.0,1,2,4,Lapsed one-timers
+C0844,321,1,5780.0,1,1,2,Lapsed one-timers
+C0845,77,2,17310.0,3,2,4,Occasional
+C0846,325,1,24280.0,1,1,5,Lapsed one-timers
+C0847,116,2,4030.0,2,2,1,Lapsed one-timers
+C0848,133,2,2270.0,2,2,1,Lapsed one-timers
+C0849,317,1,6030.0,1,1,2,Lapsed one-timers
+C0850,151,3,4830.0,2,3,2,At risk
+C0851,322,1,10830.0,1,1,3,Lapsed one-timers
+C0852,57,3,15560.0,4,3,4,Loyal
+C0853,28,5,80930.0,5,4,5,Champions
+C0854,333,1,7610.0,1,1,3,Lapsed one-timers
+C0855,13,2,19570.0,5,2,4,Occasional
+C0856,324,1,12270.0,1,1,4,Lapsed one-timers
+C0857,224,3,5030.0,1,3,2,At risk
+C0858,253,3,23470.0,1,3,5,At risk
+C0859,52,3,5300.0,4,3,2,Loyal
+C0860,251,3,52120.0,1,3,5,At risk
+C0861,173,4,62250.0,2,3,5,At risk
+C0862,332,1,4450.0,1,1,1,Lapsed one-timers
+C0863,224,3,59010.0,1,3,5,At risk
+C0864,309,1,6650.0,1,1,2,Lapsed one-timers
+C0865,18,7,126290.0,5,4,5,Champions
+C0866,143,3,17900.0,2,3,4,At risk
+C0867,49,9,139060.0,4,5,5,Champions
+C0868,105,2,3180.0,2,2,1,Lapsed one-timers
+C0869,58,2,18020.0,4,2,4,Occasional
+C0870,187,2,3100.0,1,2,1,Lapsed one-timers
+C0871,333,1,16690.0,1,1,4,Lapsed one-timers
+C0872,307,1,5000.0,1,1,2,Lapsed one-timers
+C0873,305,1,11480.0,1,1,4,Lapsed one-timers
+C0874,324,1,13430.0,1,1,4,Lapsed one-timers
+C0875,309,1,6530.0,1,1,2,Lapsed one-timers
+C0876,110,3,17840.0,2,3,4,At risk
+C0877,100,2,14470.0,2,2,4,Lapsed one-timers
+C0878,321,1,15830.0,1,1,4,Lapsed one-timers
+C0879,311,1,29170.0,1,1,5,Lapsed one-timers
+C0880,197,2,14210.0,1,2,4,Lapsed one-timers
+C0881,275,1,6240.0,1,1,2,Lapsed one-timers
+C0882,33,2,21490.0,4,2,4,Occasional
+C0883,290,1,6560.0,1,1,2,Lapsed one-timers
+C0884,279,1,4290.0,1,1,1,Lapsed one-timers
+C0885,281,1,6560.0,1,1,2,Lapsed one-timers
+C0886,284,1,12420.0,1,1,4,Lapsed one-timers
+C0887,161,2,3200.0,2,2,1,Lapsed one-timers
+C0888,287,1,5410.0,1,1,2,Lapsed one-timers
+C0889,194,3,8580.0,1,3,3,At risk
+C0890,60,5,102500.0,4,4,5,Champions
+C0891,286,1,7890.0,1,1,3,Lapsed one-timers
+C0892,24,3,26510.0,5,3,5,Loyal
+C0893,280,1,19100.0,1,1,4,Lapsed one-timers
+C0894,290,1,3770.0,1,1,1,Lapsed one-timers
+C0895,196,4,74740.0,1,3,5,At risk
+C0896,52,2,18800.0,4,2,4,Occasional
+C0897,51,2,4120.0,4,2,1,Occasional
+C0898,278,1,5900.0,1,1,2,Lapsed one-timers
+C0899,145,3,20280.0,2,3,4,At risk
+C0900,60,5,77340.0,4,4,5,Champions
+C0901,28,4,6940.0,5,3,3,Loyal
+C0902,298,1,6260.0,1,1,2,Lapsed one-timers
+C0903,50,3,63370.0,4,3,5,Loyal
+C0904,302,1,10950.0,1,1,4,Lapsed one-timers
+C0905,250,2,6330.0,1,2,2,Lapsed one-timers
+C0906,287,1,4560.0,1,1,2,Lapsed one-timers
+C0907,198,2,11710.0,1,2,4,Lapsed one-timers
+C0908,55,3,3920.0,4,3,1,Loyal
+C0909,172,2,10410.0,2,2,3,Lapsed one-timers
+C0910,284,1,4190.0,1,1,1,Lapsed one-timers
+C0911,26,2,14070.0,5,2,4,Occasional
+C0912,5,2,25180.0,5,2,5,Occasional
+C0913,42,3,4760.0,4,3,2,Loyal
+C0914,179,3,19620.0,2,3,4,At risk
+C0915,285,1,2660.0,1,1,1,Lapsed one-timers
+C0916,100,2,19360.0,2,2,4,Lapsed one-timers
+C0917,105,2,10510.0,2,2,3,Lapsed one-timers
+C0918,286,1,7440.0,1,1,3,Lapsed one-timers
+C0919,129,2,19410.0,2,2,4,Lapsed one-timers
+C0920,34,3,16770.0,4,3,4,Loyal
+C0921,299,1,11410.0,1,1,4,Lapsed one-timers
+C0922,9,5,66980.0,5,4,5,Champions
+C0923,51,3,8940.0,4,3,3,Loyal
+C0924,41,7,124580.0,4,4,5,Champions
+C0925,286,1,16380.0,1,1,4,Lapsed one-timers
+C0926,86,2,7360.0,3,2,3,Occasional
+C0927,282,1,7020.0,1,1,3,Lapsed one-timers
+C0928,42,2,17040.0,4,2,4,Occasional
+C0929,74,3,39520.0,3,3,5,Loyal
+C0930,279,1,8310.0,1,1,3,Lapsed one-timers
+C0931,147,2,11910.0,2,2,4,Lapsed one-timers
+C0932,28,7,120290.0,5,4,5,Champions
+C0933,277,1,6400.0,1,1,2,Lapsed one-timers
+C0934,293,1,5720.0,1,1,2,Lapsed one-timers
+C0935,119,2,24800.0,2,2,5,Lapsed one-timers
+C0936,104,2,13010.0,2,2,4,Lapsed one-timers
+C0937,283,1,4830.0,1,1,2,Lapsed one-timers
+C0938,277,1,6610.0,1,1,2,Lapsed one-timers
+C0939,293,1,7560.0,1,1,3,Lapsed one-timers
+C0940,241,3,41910.0,1,3,5,At risk
+C0941,146,2,7830.0,2,2,3,Lapsed one-timers
+C0942,145,2,14880.0,2,2,4,Lapsed one-timers
+C0943,222,3,30950.0,1,3,5,At risk
+C0944,200,2,15370.0,1,2,4,Lapsed one-timers
+C0945,86,4,28930.0,3,3,5,Loyal
+C0946,56,5,11960.0,4,4,4,Champions
+C0947,275,1,6660.0,1,1,2,Lapsed one-timers
+C0948,57,2,25180.0,4,2,5,Occasional
+C0949,149,5,78280.0,2,4,5,At risk
+C0950,285,1,15150.0,1,1,4,Lapsed one-timers
+C0951,145,5,75110.0,2,4,5,At risk
+C0952,303,1,18300.0,1,1,4,Lapsed one-timers
+C0953,298,1,6700.0,1,1,2,Lapsed one-timers
+C0954,219,2,6310.0,1,2,2,Lapsed one-timers
+C0955,275,1,3930.0,1,1,1,Lapsed one-timers
+C0956,69,2,14160.0,3,2,4,Occasional
+C0957,283,1,5850.0,1,1,2,Lapsed one-timers
+C0958,100,2,2860.0,2,2,1,Lapsed one-timers
+C0959,286,1,9790.0,1,1,3,Lapsed one-timers
+C0960,303,1,800.0,1,1,1,Lapsed one-timers
+C0961,290,1,4900.0,1,1,2,Lapsed one-timers
+C0962,30,2,17180.0,5,2,4,Occasional
+C0963,206,3,39640.0,1,3,5,At risk
+C0964,275,1,4380.0,1,1,1,Lapsed one-timers
+C0965,246,2,8880.0,1,2,3,Lapsed one-timers
+C0966,272,1,14670.0,1,1,4,Lapsed one-timers
+C0967,27,3,6670.0,5,3,2,Loyal
+C0968,263,1,15430.0,1,1,4,Lapsed one-timers
+C0969,189,3,5500.0,1,3,2,At risk
+C0970,248,1,9150.0,1,1,3,Lapsed one-timers
+C0971,112,2,21410.0,2,2,4,Lapsed one-timers
+C0972,269,1,10330.0,1,1,3,Lapsed one-timers
+C0973,252,1,8680.0,1,1,3,Lapsed one-timers
+C0974,270,1,13440.0,1,1,4,Lapsed one-timers
+C0975,12,7,117810.0,5,4,5,Champions
+C0976,260,1,5020.0,1,1,2,Lapsed one-timers
+C0977,267,1,7530.0,1,1,3,Lapsed one-timers
+C0978,254,1,5380.0,1,1,2,Lapsed one-timers
+C0979,85,2,9620.0,3,2,3,Occasional
+C0980,22,2,2670.0,5,2,1,Occasional
+C0981,175,2,7210.0,2,2,3,Lapsed one-timers
+C0982,65,2,17880.0,3,2,4,Occasional
+C0983,37,2,19580.0,4,2,4,Occasional
+C0984,14,5,8020.0,5,4,3,Champions
+C0985,252,1,19040.0,1,1,4,Lapsed one-timers
+C0986,273,1,18030.0,1,1,4,Lapsed one-timers
+C0987,268,1,4890.0,1,1,2,Lapsed one-timers
+C0988,252,1,7510.0,1,1,3,Lapsed one-timers
+C0989,244,1,7850.0,1,1,3,Lapsed one-timers
+C0990,141,2,17080.0,2,2,4,Lapsed one-timers
+C0991,246,1,9610.0,1,1,3,Lapsed one-timers
+C0992,263,1,5030.0,1,1,2,Lapsed one-timers
+C0993,206,3,8210.0,1,3,3,At risk
+C0994,247,1,6040.0,1,1,2,Lapsed one-timers
+C0995,249,1,6780.0,1,1,3,Lapsed one-timers
+C0996,9,2,16430.0,5,2,4,Occasional
+C0997,269,1,8190.0,1,1,3,Lapsed one-timers
+C0998,252,1,5770.0,1,1,2,Lapsed one-timers
+C0999,266,1,7930.0,1,1,3,Lapsed one-timers
+C1000,257,1,3870.0,1,1,1,Lapsed one-timers
+C1001,249,1,5460.0,1,1,2,Lapsed one-timers
+C1002,248,1,9150.0,1,1,3,Lapsed one-timers
+C1003,254,1,4550.0,1,1,2,Lapsed one-timers
+C1004,265,1,5310.0,1,1,2,Lapsed one-timers
+C1005,266,1,9350.0,1,1,3,Lapsed one-timers
+C1006,8,2,15700.0,5,2,4,Occasional
+C1007,139,2,12060.0,2,2,4,Lapsed one-timers
+C1008,66,4,73900.0,3,3,5,Loyal
+C1009,158,3,21300.0,2,3,4,At risk
+C1010,273,1,4260.0,1,1,1,Lapsed one-timers
+C1011,262,1,5900.0,1,1,2,Lapsed one-timers
+C1012,203,3,47280.0,1,3,5,At risk
+C1013,53,3,17560.0,4,3,4,Loyal
+C1014,217,2,19000.0,1,2,4,Lapsed one-timers
+C1015,180,2,6670.0,2,2,2,Lapsed one-timers
+C1016,246,1,12760.0,1,1,4,Lapsed one-timers
+C1017,218,2,17850.0,1,2,4,Lapsed one-timers
+C1018,114,2,15560.0,2,2,4,Lapsed one-timers
+C1019,273,1,5330.0,1,1,2,Lapsed one-timers
+C1020,43,3,4650.0,4,3,2,Loyal
+C1021,65,2,13500.0,3,2,4,Occasional
+C1022,9,6,88450.0,5,4,5,Champions
+C1023,263,1,6590.0,1,1,2,Lapsed one-timers
+C1024,254,1,6690.0,1,1,2,Lapsed one-timers
+C1025,270,1,3140.0,1,1,1,Lapsed one-timers
+C1026,43,4,7810.0,4,3,3,Loyal
+C1027,101,2,10750.0,2,2,3,Lapsed one-timers
+C1028,68,3,82840.0,3,3,5,Loyal
+C1029,273,1,4640.0,1,1,2,Lapsed one-timers
+C1030,7,3,17640.0,5,3,4,Loyal
+C1031,264,1,7000.0,1,1,3,Lapsed one-timers
+C1032,11,6,77440.0,5,4,5,Champions
+C1033,271,1,4380.0,1,1,1,Lapsed one-timers
+C1034,98,4,54520.0,2,3,5,At risk
+C1035,18,4,59910.0,5,3,5,Loyal
+C1036,247,1,7400.0,1,1,3,Lapsed one-timers
+C1037,8,5,122620.0,5,4,5,Champions
+C1038,13,2,13620.0,5,2,4,Occasional
+C1039,272,1,6070.0,1,1,2,Lapsed one-timers
+C1040,260,1,3590.0,1,1,1,Lapsed one-timers
+C1041,246,1,5470.0,1,1,2,Lapsed one-timers
+C1042,12,7,81370.0,5,4,5,Champions
+C1043,14,6,85350.0,5,4,5,Champions
+C1044,255,1,13830.0,1,1,4,Lapsed one-timers
+C1045,28,2,15340.0,5,2,4,Occasional
+C1046,254,1,3590.0,1,1,1,Lapsed one-timers
+C1047,49,6,86220.0,4,4,5,Champions
+C1048,245,1,5290.0,1,1,2,Lapsed one-timers
+C1049,254,1,5950.0,1,1,2,Lapsed one-timers
+C1050,84,3,36850.0,3,3,5,Loyal
+C1051,208,2,19020.0,1,2,4,Lapsed one-timers
+C1052,225,2,21530.0,1,2,4,Lapsed one-timers
+C1053,268,1,7620.0,1,1,3,Lapsed one-timers
+C1054,86,6,125410.0,3,4,5,Loyal
+C1055,264,1,7740.0,1,1,3,Lapsed one-timers
+C1056,27,2,9090.0,5,2,3,Occasional
+C1057,257,1,12710.0,1,1,4,Lapsed one-timers
+C1058,221,2,42720.0,1,2,5,Lapsed one-timers
+C1059,61,7,85020.0,3,4,5,Loyal
+C1060,15,8,112890.0,5,5,5,Champions
+C1061,3,4,53870.0,5,3,5,Loyal
+C1062,246,1,1280.0,1,1,1,Lapsed one-timers
+C1063,199,2,14050.0,1,2,4,Lapsed one-timers
+C1064,9,5,82980.0,5,4,5,Champions
+C1065,237,1,4260.0,1,1,1,Lapsed one-timers
+C1066,226,1,5450.0,1,1,2,Lapsed one-timers
+C1067,227,1,1270.0,1,1,1,Lapsed one-timers
+C1068,242,1,3400.0,1,1,1,Lapsed one-timers
+C1069,224,1,9160.0,1,1,3,Lapsed one-timers
+C1070,5,2,23260.0,5,2,5,Occasional
+C1071,4,5,49650.0,5,4,5,Champions
+C1072,75,2,17010.0,3,2,4,Occasional
+C1073,239,1,6770.0,1,1,2,Lapsed one-timers
+C1074,234,1,8300.0,1,1,3,Lapsed one-timers
+C1075,228,1,9830.0,1,1,3,Lapsed one-timers
+C1076,185,2,13500.0,1,2,4,Lapsed one-timers
+C1077,228,1,11580.0,1,1,4,Lapsed one-timers
+C1078,236,1,5610.0,1,1,2,Lapsed one-timers
+C1079,240,1,2890.0,1,1,1,Lapsed one-timers
+C1080,219,1,10780.0,1,1,3,Lapsed one-timers
+C1081,224,1,8030.0,1,1,3,Lapsed one-timers
+C1082,237,1,3380.0,1,1,1,Lapsed one-timers
+C1083,226,1,10590.0,1,1,3,Lapsed one-timers
+C1084,25,4,56700.0,5,3,5,Loyal
+C1085,153,3,47250.0,2,3,5,At risk
+C1086,61,2,16380.0,3,2,4,Occasional
+C1087,222,1,9040.0,1,1,3,Lapsed one-timers
+C1088,219,1,8740.0,1,1,3,Lapsed one-timers
+C1089,118,2,19540.0,2,2,4,Lapsed one-timers
+C1090,31,3,4890.0,4,3,2,Loyal
+C1091,226,1,10340.0,1,1,3,Lapsed one-timers
+C1092,185,2,13170.0,1,2,4,Lapsed one-timers
+C1093,63,2,10000.0,3,2,3,Occasional
+C1094,67,2,13550.0,3,2,4,Occasional
+C1095,56,3,15640.0,4,3,4,Loyal
+C1096,233,1,7780.0,1,1,3,Lapsed one-timers
+C1097,217,1,5520.0,1,1,2,Lapsed one-timers
+C1098,220,1,6030.0,1,1,2,Lapsed one-timers
+C1099,164,3,56730.0,2,3,5,At risk
+C1100,1,2,3530.0,5,2,1,Occasional
+C1101,242,1,5480.0,1,1,2,Lapsed one-timers
+C1102,232,1,8550.0,1,1,3,Lapsed one-timers
+C1103,233,1,5480.0,1,1,2,Lapsed one-timers
+C1104,234,1,13750.0,1,1,4,Lapsed one-timers
+C1105,231,1,4090.0,1,1,1,Lapsed one-timers
+C1106,16,2,6390.0,5,2,2,Occasional
+C1107,217,1,11200.0,1,1,4,Lapsed one-timers
+C1108,17,6,72280.0,5,4,5,Champions
+C1109,234,1,4480.0,1,1,1,Lapsed one-timers
+C1110,13,2,2990.0,5,2,1,Occasional
+C1111,230,1,10490.0,1,1,3,Lapsed one-timers
+C1112,120,2,9120.0,2,2,3,Lapsed one-timers
+C1113,241,1,1030.0,1,1,1,Lapsed one-timers
+C1114,214,2,16090.0,1,2,4,Lapsed one-timers
+C1115,227,1,5590.0,1,1,2,Lapsed one-timers
+C1116,216,1,6660.0,1,1,2,Lapsed one-timers
+C1117,233,1,4190.0,1,1,1,Lapsed one-timers
+C1118,238,1,13490.0,1,1,4,Lapsed one-timers
+C1119,43,4,54390.0,4,3,5,Loyal
+C1120,37,2,22170.0,4,2,5,Occasional
+C1121,227,1,5510.0,1,1,2,Lapsed one-timers
+C1122,221,1,21220.0,1,1,4,Lapsed one-timers
+C1123,241,1,5450.0,1,1,2,Lapsed one-timers
+C1124,228,1,6940.0,1,1,3,Lapsed one-timers
+C1125,69,2,25460.0,3,2,5,Occasional
+C1126,218,1,900.0,1,1,1,Lapsed one-timers
+C1127,172,2,15410.0,2,2,4,Lapsed one-timers
+C1128,217,1,7850.0,1,1,3,Lapsed one-timers
+C1129,237,1,5470.0,1,1,2,Lapsed one-timers
+C1130,234,1,16500.0,1,1,4,Lapsed one-timers
+C1131,217,1,6870.0,1,1,3,Lapsed one-timers
+C1132,242,1,7230.0,1,1,3,Lapsed one-timers
+C1133,52,4,8800.0,4,3,3,Loyal
+C1134,48,2,6940.0,4,2,3,Occasional
+C1135,237,1,6370.0,1,1,2,Lapsed one-timers
+C1136,65,4,44150.0,3,3,5,Loyal
+C1137,221,1,2000.0,1,1,1,Lapsed one-timers
+C1138,221,1,3610.0,1,1,1,Lapsed one-timers
+C1139,219,1,9110.0,1,1,3,Lapsed one-timers
+C1140,240,1,11960.0,1,1,4,Lapsed one-timers
+C1141,220,1,16120.0,1,1,4,Lapsed one-timers
+C1142,239,1,7070.0,1,1,3,Lapsed one-timers
+C1143,229,1,9780.0,1,1,3,Lapsed one-timers
+C1144,226,1,1420.0,1,1,1,Lapsed one-timers
+C1145,233,1,7520.0,1,1,3,Lapsed one-timers
+C1146,58,5,72960.0,4,4,5,Champions
+C1147,98,3,23550.0,2,3,5,At risk
+C1148,226,1,5850.0,1,1,2,Lapsed one-timers
+C1149,168,2,13000.0,2,2,4,Lapsed one-timers
+C1150,111,3,45350.0,2,3,5,At risk
+C1151,237,1,5670.0,1,1,2,Lapsed one-timers
+C1152,235,1,14250.0,1,1,4,Lapsed one-timers
+C1153,238,1,1600.0,1,1,1,Lapsed one-timers
+C1154,62,4,66340.0,3,3,5,Loyal
+C1155,242,1,4590.0,1,1,2,Lapsed one-timers
+C1156,194,2,4550.0,1,2,2,Lapsed one-timers
+C1157,133,2,17380.0,2,2,4,Lapsed one-timers
+C1158,189,1,19570.0,1,1,4,Lapsed one-timers
+C1159,18,3,4820.0,5,3,2,Loyal
+C1160,204,1,3030.0,1,1,1,Lapsed one-timers
+C1161,195,1,12320.0,1,1,4,Lapsed one-timers
+C1162,206,1,8210.0,1,1,3,Lapsed one-timers
+C1163,193,1,2030.0,1,1,1,Lapsed one-timers
+C1164,61,5,123650.0,3,4,5,Loyal
+C1165,198,1,3450.0,1,1,1,Lapsed one-timers
+C1166,61,4,9210.0,3,3,3,Loyal
+C1167,190,1,11610.0,1,1,4,Lapsed one-timers
+C1168,186,1,6350.0,1,1,2,Lapsed one-timers
+C1169,46,6,67750.0,4,4,5,Champions
+C1170,84,2,11910.0,3,2,4,Occasional
+C1171,25,3,39070.0,5,3,5,Loyal
+C1172,13,3,12720.0,5,3,4,Loyal
+C1173,192,1,19590.0,1,1,4,Lapsed one-timers
+C1174,210,1,21100.0,1,1,4,Lapsed one-timers
+C1175,212,1,3410.0,1,1,1,Lapsed one-timers
+C1176,192,1,16090.0,1,1,4,Lapsed one-timers
+C1177,30,3,4800.0,5,3,2,Loyal
+C1178,168,2,18320.0,2,2,4,Lapsed one-timers
+C1179,142,2,15980.0,2,2,4,Lapsed one-timers
+C1180,189,1,13480.0,1,1,4,Lapsed one-timers
+C1181,198,1,4030.0,1,1,1,Lapsed one-timers
+C1182,194,1,15480.0,1,1,4,Lapsed one-timers
+C1183,200,1,4140.0,1,1,1,Lapsed one-timers
+C1184,214,1,5270.0,1,1,2,Lapsed one-timers
+C1185,79,2,12080.0,3,2,4,Occasional
+C1186,162,2,5290.0,2,2,2,Lapsed one-timers
+C1187,214,1,17580.0,1,1,4,Lapsed one-timers
+C1188,198,1,2550.0,1,1,1,Lapsed one-timers
+C1189,192,1,4340.0,1,1,1,Lapsed one-timers
+C1190,210,1,6540.0,1,1,2,Lapsed one-timers
+C1191,90,4,68780.0,3,3,5,Loyal
+C1192,200,1,8650.0,1,1,3,Lapsed one-timers
+C1193,210,1,10440.0,1,1,3,Lapsed one-timers
+C1194,113,2,5520.0,2,2,2,Lapsed one-timers
+C1195,103,3,37150.0,2,3,5,At risk
+C1196,42,2,10040.0,4,2,3,Occasional
+C1197,38,2,16250.0,4,2,4,Occasional
+C1198,190,1,8550.0,1,1,3,Lapsed one-timers
+C1199,16,3,41910.0,5,3,5,Loyal
+C1200,144,2,37610.0,2,2,5,Lapsed one-timers
+C1201,47,2,4800.0,4,2,2,Occasional
+C1202,187,1,7410.0,1,1,3,Lapsed one-timers
+C1203,25,3,10140.0,5,3,3,Loyal
+C1204,195,1,4820.0,1,1,2,Lapsed one-timers
+C1205,194,1,4030.0,1,1,1,Lapsed one-timers
+C1206,188,1,5030.0,1,1,2,Lapsed one-timers
+C1207,27,5,64380.0,5,4,5,Champions
+C1208,194,1,9020.0,1,1,3,Lapsed one-timers
+C1209,206,1,6130.0,1,1,2,Lapsed one-timers
+C1210,195,1,4850.0,1,1,2,Lapsed one-timers
+C1211,193,1,3460.0,1,1,1,Lapsed one-timers
+C1212,192,1,4220.0,1,1,1,Lapsed one-timers
+C1213,30,3,13020.0,5,3,4,Loyal
+C1214,53,4,13450.0,4,3,4,Loyal
+C1215,213,1,39590.0,1,1,5,Lapsed one-timers
+C1216,187,1,7710.0,1,1,3,Lapsed one-timers
+C1217,202,1,1610.0,1,1,1,Lapsed one-timers
+C1218,31,2,7950.0,4,2,3,Occasional
+C1219,46,4,57050.0,4,3,5,Loyal
+C1220,201,1,6030.0,1,1,2,Lapsed one-timers
+C1221,200,1,4800.0,1,1,2,Lapsed one-timers
+C1222,4,6,111010.0,5,4,5,Champions
+C1223,160,2,10040.0,2,2,3,Lapsed one-timers
+C1224,206,1,5450.0,1,1,2,Lapsed one-timers
+C1225,28,5,79120.0,5,4,5,Champions
+C1226,35,3,72880.0,4,3,5,Loyal
+C1227,198,1,7200.0,1,1,3,Lapsed one-timers
+C1228,61,6,126740.0,3,4,5,Loyal
+C1229,199,1,11720.0,1,1,4,Lapsed one-timers
+C1230,209,1,16370.0,1,1,4,Lapsed one-timers
+C1231,209,1,5760.0,1,1,2,Lapsed one-timers
+C1232,213,1,3610.0,1,1,1,Lapsed one-timers
+C1233,139,2,19700.0,2,2,4,Lapsed one-timers
+C1234,124,2,4960.0,2,2,2,Lapsed one-timers
+C1235,212,1,4280.0,1,1,1,Lapsed one-timers
+C1236,2,5,70820.0,5,4,5,Champions
+C1237,192,1,3060.0,1,1,1,Lapsed one-timers
+C1238,208,1,16530.0,1,1,4,Lapsed one-timers
+C1239,123,2,10660.0,2,2,3,Lapsed one-timers
+C1240,189,1,6340.0,1,1,2,Lapsed one-timers
+C1241,205,1,6460.0,1,1,2,Lapsed one-timers
+C1242,90,2,3510.0,3,2,1,Occasional
+C1243,196,1,12710.0,1,1,4,Lapsed one-timers
+C1244,187,1,2260.0,1,1,1,Lapsed one-timers
+C1245,4,4,59680.0,5,3,5,Loyal
+C1246,184,1,3350.0,1,1,1,Lapsed one-timers
+C1247,190,1,6600.0,1,1,2,Lapsed one-timers
+C1248,173,2,40000.0,2,2,5,Lapsed one-timers
+C1249,199,1,3380.0,1,1,1,Lapsed one-timers
+C1250,90,3,32350.0,3,3,5,Loyal
+C1251,207,1,6310.0,1,1,2,Lapsed one-timers
+C1252,212,1,7020.0,1,1,3,Lapsed one-timers
+C1253,26,5,75640.0,5,4,5,Champions
+C1254,199,1,7060.0,1,1,3,Lapsed one-timers
+C1255,68,2,4680.0,3,2,2,Occasional
+C1256,205,1,6060.0,1,1,2,Lapsed one-timers
+C1257,23,3,43420.0,5,3,5,Loyal
+C1258,208,1,3330.0,1,1,1,Lapsed one-timers
+C1259,197,1,10310.0,1,1,3,Lapsed one-timers
+C1260,12,6,89950.0,5,4,5,Champions
+C1261,54,3,19460.0,4,3,4,Loyal
+C1262,189,1,9110.0,1,1,3,Lapsed one-timers
+C1263,188,1,9030.0,1,1,3,Lapsed one-timers
+C1264,70,2,10250.0,3,2,3,Occasional
+C1265,95,2,13110.0,2,2,4,Lapsed one-timers
+C1266,199,1,12470.0,1,1,4,Lapsed one-timers
+C1267,5,4,6790.0,5,3,3,Loyal
+C1268,110,3,14070.0,2,3,4,At risk
+C1269,186,1,4140.0,1,1,1,Lapsed one-timers
+C1270,70,3,6290.0,3,3,2,Loyal
+C1271,18,5,78920.0,5,4,5,Champions
+C1272,3,3,4500.0,5,3,2,Loyal
+C1273,186,1,6040.0,1,1,2,Lapsed one-timers
+C1274,173,1,4660.0,2,1,2,Lapsed one-timers
+C1275,137,2,7970.0,2,2,3,Lapsed one-timers
+C1276,12,5,57280.0,5,4,5,Champions
+C1277,182,1,4890.0,1,1,2,Lapsed one-timers
+C1278,182,1,3240.0,1,1,1,Lapsed one-timers
+C1279,179,1,3370.0,2,1,1,Lapsed one-timers
+C1280,90,2,12320.0,3,2,4,Occasional
+C1281,39,2,14810.0,4,2,4,Occasional
+C1282,174,1,6870.0,2,1,3,Lapsed one-timers
+C1283,47,4,67090.0,4,3,5,Loyal
+C1284,162,1,6480.0,2,1,2,Lapsed one-timers
+C1285,177,1,10180.0,2,1,3,Lapsed one-timers
+C1286,137,2,6690.0,2,2,2,Lapsed one-timers
+C1287,178,1,4950.0,2,1,2,Lapsed one-timers
+C1288,156,1,2250.0,2,1,1,Lapsed one-timers
+C1289,44,4,45550.0,4,3,5,Loyal
+C1290,162,1,15320.0,2,1,4,Lapsed one-timers
+C1291,155,1,7310.0,2,1,3,Lapsed one-timers
+C1292,160,1,9040.0,2,1,3,Lapsed one-timers
+C1293,180,1,6990.0,2,1,3,Lapsed one-timers
+C1294,167,1,13890.0,2,1,4,Lapsed one-timers
+C1295,163,1,3200.0,2,1,1,Lapsed one-timers
+C1296,179,1,2080.0,2,1,1,Lapsed one-timers
+C1297,64,2,14780.0,3,2,4,Occasional
+C1298,162,1,6780.0,2,1,3,Lapsed one-timers
+C1299,180,1,8610.0,2,1,3,Lapsed one-timers
+C1300,128,2,30640.0,2,2,5,Lapsed one-timers
+C1301,22,4,9570.0,5,3,3,Loyal
+C1302,168,1,9250.0,2,1,3,Lapsed one-timers
+C1303,27,5,59360.0,5,4,5,Champions
+C1304,159,1,13790.0,2,1,4,Lapsed one-timers
+C1305,155,1,4820.0,2,1,2,Lapsed one-timers
+C1306,127,2,4940.0,2,2,2,Lapsed one-timers
+C1307,169,1,5570.0,2,1,2,Lapsed one-timers
+C1308,156,1,14200.0,2,1,4,Lapsed one-timers
+C1309,183,1,13720.0,1,1,4,Lapsed one-timers
+C1310,163,1,5820.0,2,1,2,Lapsed one-timers
+C1311,58,5,67640.0,4,4,5,Champions
+C1312,113,3,44070.0,2,3,5,At risk
+C1313,180,1,4710.0,2,1,2,Lapsed one-timers
+C1314,37,2,23860.0,4,2,5,Occasional
+C1315,14,6,110090.0,5,4,5,Champions
+C1316,165,1,10310.0,2,1,3,Lapsed one-timers
+C1317,131,2,18560.0,2,2,4,Lapsed one-timers
+C1318,164,1,1810.0,2,1,1,Lapsed one-timers
+C1319,165,1,3870.0,2,1,1,Lapsed one-timers
+C1320,157,1,5000.0,2,1,2,Lapsed one-timers
+C1321,174,1,16370.0,2,1,4,Lapsed one-timers
+C1322,159,1,11830.0,2,1,4,Lapsed one-timers
+C1323,16,2,17880.0,5,2,4,Occasional
+C1324,165,1,9110.0,2,1,3,Lapsed one-timers
+C1325,122,3,52720.0,2,3,5,At risk
+C1326,154,1,7890.0,2,1,3,Lapsed one-timers
+C1327,6,3,71930.0,5,3,5,Loyal
+C1328,161,1,10160.0,2,1,3,Lapsed one-timers
+C1329,67,2,11960.0,3,2,4,Occasional
+C1330,20,2,21960.0,5,2,5,Occasional
+C1331,76,2,12710.0,3,2,4,Occasional
+C1332,183,1,4140.0,1,1,1,Lapsed one-timers
+C1333,166,1,3490.0,2,1,1,Lapsed one-timers
+C1334,170,1,8680.0,2,1,3,Lapsed one-timers
+C1335,65,2,8220.0,3,2,3,Occasional
+C1336,59,5,72690.0,4,4,5,Champions
+C1337,171,1,7730.0,2,1,3,Lapsed one-timers
+C1338,175,1,14090.0,2,1,4,Lapsed one-timers
+C1339,68,4,55890.0,3,3,5,Loyal
+C1340,162,1,6700.0,2,1,2,Lapsed one-timers
+C1341,162,1,7250.0,2,1,3,Lapsed one-timers
+C1342,120,3,60730.0,2,3,5,At risk
+C1343,175,1,8080.0,2,1,3,Lapsed one-timers
+C1344,180,1,4450.0,2,1,1,Lapsed one-timers
+C1345,168,1,16420.0,2,1,4,Lapsed one-timers
+C1346,157,1,1480.0,2,1,1,Lapsed one-timers
+C1347,98,2,15380.0,2,2,4,Lapsed one-timers
+C1348,164,1,12330.0,2,1,4,Lapsed one-timers
+C1349,167,1,3610.0,2,1,1,Lapsed one-timers
+C1350,178,1,2890.0,2,1,1,Lapsed one-timers
+C1351,140,2,14610.0,2,2,4,Lapsed one-timers
+C1352,107,2,8470.0,2,2,3,Lapsed one-timers
+C1353,181,1,7150.0,1,1,3,Lapsed one-timers
+C1354,173,1,4590.0,2,1,2,Lapsed one-timers
+C1355,161,1,12680.0,2,1,4,Lapsed one-timers
+C1356,60,4,48970.0,4,3,5,Loyal
+C1357,169,1,3460.0,2,1,1,Lapsed one-timers
+C1358,158,1,4590.0,2,1,2,Lapsed one-timers
+C1359,109,2,14540.0,2,2,4,Lapsed one-timers
+C1360,173,1,4960.0,2,1,2,Lapsed one-timers
+C1361,31,3,20830.0,4,3,4,Loyal
+C1362,166,1,7090.0,2,1,3,Lapsed one-timers
+C1363,173,1,16710.0,2,1,4,Lapsed one-timers
+C1364,31,2,11080.0,4,2,4,Occasional
+C1365,159,1,6930.0,2,1,3,Lapsed one-timers
+C1366,116,2,12490.0,2,2,4,Lapsed one-timers
+C1367,179,1,9230.0,2,1,3,Lapsed one-timers
+C1368,160,1,6330.0,2,1,2,Lapsed one-timers
+C1369,80,4,64220.0,3,3,5,Loyal
+C1370,166,1,4090.0,2,1,1,Lapsed one-timers
+C1371,127,2,7090.0,2,2,3,Lapsed one-timers
+C1372,34,3,57310.0,4,3,5,Loyal
+C1373,14,2,3190.0,5,2,1,Occasional
+C1374,173,1,2020.0,2,1,1,Lapsed one-timers
+C1375,153,1,8060.0,2,1,3,Lapsed one-timers
+C1376,8,2,10290.0,5,2,3,Occasional
+C1377,140,1,7770.0,2,1,3,Lapsed one-timers
+C1378,145,1,8260.0,2,1,3,Lapsed one-timers
+C1379,138,1,4140.0,2,1,1,Lapsed one-timers
+C1380,40,2,5060.0,4,2,2,Occasional
+C1381,124,1,6940.0,2,1,3,Lapsed one-timers
+C1382,63,3,43980.0,3,3,5,Loyal
+C1383,146,1,6670.0,2,1,2,Lapsed one-timers
+C1384,141,1,8220.0,2,1,3,Lapsed one-timers
+C1385,123,1,6900.0,2,1,3,Lapsed one-timers
+C1386,125,1,6860.0,2,1,3,Lapsed one-timers
+C1387,126,1,5830.0,2,1,2,Lapsed one-timers
+C1388,153,1,4080.0,2,1,1,Lapsed one-timers
+C1389,123,1,14290.0,2,1,4,Lapsed one-timers
+C1390,63,2,17110.0,3,2,4,Occasional
+C1391,135,1,1160.0,2,1,1,Lapsed one-timers
+C1392,134,1,5410.0,2,1,2,Lapsed one-timers
+C1393,143,1,11340.0,2,1,4,Lapsed one-timers
+C1394,15,2,11950.0,5,2,4,Occasional
+C1395,20,2,2350.0,5,2,1,Occasional
+C1396,130,1,6020.0,2,1,2,Lapsed one-timers
+C1397,144,1,3570.0,2,1,1,Lapsed one-timers
+C1398,124,1,11080.0,2,1,4,Lapsed one-timers
+C1399,139,1,4110.0,2,1,1,Lapsed one-timers
+C1400,21,4,67730.0,5,3,5,Loyal
+C1401,8,2,20440.0,5,2,4,Occasional
+C1402,131,1,2170.0,2,1,1,Lapsed one-timers
+C1403,83,2,12230.0,3,2,4,Occasional
+C1404,127,1,5760.0,2,1,2,Lapsed one-timers
+C1405,139,1,4250.0,2,1,1,Lapsed one-timers
+C1406,61,2,18290.0,3,2,4,Occasional
+C1407,65,2,3050.0,3,2,1,Occasional
+C1408,130,1,7620.0,2,1,3,Lapsed one-timers
+C1409,16,2,8930.0,5,2,3,Occasional
+C1410,140,1,7920.0,2,1,3,Lapsed one-timers
+C1411,145,1,6570.0,2,1,2,Lapsed one-timers
+C1412,151,1,13720.0,2,1,4,Lapsed one-timers
+C1413,138,1,6510.0,2,1,2,Lapsed one-timers
+C1414,103,2,13940.0,2,2,4,Lapsed one-timers
+C1415,91,2,19000.0,2,2,4,Lapsed one-timers
+C1416,20,5,84250.0,5,4,5,Champions
+C1417,141,1,8080.0,2,1,3,Lapsed one-timers
+C1418,135,1,8640.0,2,1,3,Lapsed one-timers
+C1419,149,1,5770.0,2,1,2,Lapsed one-timers
+C1420,141,1,5750.0,2,1,2,Lapsed one-timers
+C1421,39,3,37150.0,4,3,5,Loyal
+C1422,11,2,2900.0,5,2,1,Occasional
+C1423,57,2,10410.0,4,2,3,Occasional
+C1424,146,1,9360.0,2,1,3,Lapsed one-timers
+C1425,153,1,14690.0,2,1,4,Lapsed one-timers
+C1426,149,1,7780.0,2,1,3,Lapsed one-timers
+C1427,23,4,64690.0,5,3,5,Loyal
+C1428,125,1,7720.0,2,1,3,Lapsed one-timers
+C1429,137,1,6100.0,2,1,2,Lapsed one-timers
+C1430,139,1,4380.0,2,1,1,Lapsed one-timers
+C1431,141,1,1440.0,2,1,1,Lapsed one-timers
+C1432,130,1,3420.0,2,1,1,Lapsed one-timers
+C1433,124,1,4370.0,2,1,1,Lapsed one-timers
+C1434,153,1,4930.0,2,1,2,Lapsed one-timers
+C1435,144,1,6950.0,2,1,3,Lapsed one-timers
+C1436,126,1,4780.0,2,1,2,Lapsed one-timers
+C1437,137,1,4950.0,2,1,2,Lapsed one-timers
+C1438,31,2,3850.0,4,2,1,Occasional
+C1439,35,3,8210.0,4,3,3,Loyal
+C1440,18,2,16130.0,5,2,4,Occasional
+C1441,147,1,3070.0,2,1,1,Lapsed one-timers
+C1442,129,1,5410.0,2,1,2,Lapsed one-timers
+C1443,130,1,10370.0,2,1,3,Lapsed one-timers
+C1444,131,1,4280.0,2,1,1,Lapsed one-timers
+C1445,114,2,3520.0,2,2,1,Lapsed one-timers
+C1446,42,2,28520.0,4,2,5,Occasional
+C1447,83,2,9480.0,3,2,3,Occasional
+C1448,89,3,50980.0,3,3,5,Loyal
+C1449,151,1,11960.0,2,1,4,Lapsed one-timers
+C1450,153,1,6160.0,2,1,2,Lapsed one-timers
+C1451,149,1,3950.0,2,1,1,Lapsed one-timers
+C1452,138,1,18350.0,2,1,4,Lapsed one-timers
+C1453,73,2,10620.0,3,2,3,Occasional
+C1454,3,3,39060.0,5,3,5,Loyal
+C1455,144,1,1800.0,2,1,1,Lapsed one-timers
+C1456,126,1,6230.0,2,1,2,Lapsed one-timers
+C1457,44,2,3430.0,4,2,1,Occasional
+C1458,146,1,15020.0,2,1,4,Lapsed one-timers
+C1459,142,1,4900.0,2,1,2,Lapsed one-timers
+C1460,144,1,24410.0,2,1,5,Lapsed one-timers
+C1461,131,1,10240.0,2,1,3,Lapsed one-timers
+C1462,75,2,5400.0,3,2,2,Occasional
+C1463,145,1,1730.0,2,1,1,Lapsed one-timers
+C1464,130,1,3140.0,2,1,1,Lapsed one-timers
+C1465,151,1,6020.0,2,1,2,Lapsed one-timers
+C1466,12,4,84730.0,5,3,5,Loyal
+C1467,120,1,6160.0,2,1,2,Lapsed one-timers
+C1468,98,1,11460.0,2,1,4,Lapsed one-timers
+C1469,102,1,2420.0,2,1,1,Lapsed one-timers
+C1470,69,2,22820.0,3,2,5,Occasional
+C1471,3,3,90540.0,5,3,5,Loyal
+C1472,113,1,1350.0,2,1,1,Lapsed one-timers
+C1473,113,1,11530.0,2,1,4,Lapsed one-timers
+C1474,120,1,2270.0,2,1,1,Lapsed one-timers
+C1475,107,1,7440.0,2,1,3,Lapsed one-timers
+C1476,117,1,9230.0,2,1,3,Lapsed one-timers
+C1477,94,1,4100.0,2,1,1,Lapsed one-timers
+C1478,111,1,16520.0,2,1,4,Lapsed one-timers
+C1479,103,1,5060.0,2,1,2,Lapsed one-timers
+C1480,54,2,40560.0,4,2,5,Occasional
+C1481,99,1,4400.0,2,1,1,Lapsed one-timers
+C1482,120,1,4160.0,2,1,1,Lapsed one-timers
+C1483,27,3,44300.0,5,3,5,Loyal
+C1484,41,2,9310.0,4,2,3,Occasional
+C1485,103,1,3740.0,2,1,1,Lapsed one-timers
+C1486,17,4,69590.0,5,3,5,Loyal
+C1487,73,2,8730.0,3,2,3,Occasional
+C1488,113,1,8780.0,2,1,3,Lapsed one-timers
+C1489,117,1,17130.0,2,1,4,Lapsed one-timers
+C1490,104,1,22070.0,2,1,5,Lapsed one-timers
+C1491,109,1,10070.0,2,1,3,Lapsed one-timers
+C1492,108,1,8100.0,2,1,3,Lapsed one-timers
+C1493,18,2,3900.0,5,2,1,Occasional
+C1494,109,1,7390.0,2,1,3,Lapsed one-timers
+C1495,108,1,3290.0,2,1,1,Lapsed one-timers
+C1496,109,1,5490.0,2,1,2,Lapsed one-timers
+C1497,115,1,1300.0,2,1,1,Lapsed one-timers
+C1498,96,1,8740.0,2,1,3,Lapsed one-timers
+C1499,41,2,11900.0,4,2,4,Occasional
+C1500,74,2,2500.0,3,2,1,Occasional
+C1501,80,2,20300.0,3,2,4,Occasional
+C1502,100,1,10340.0,2,1,3,Lapsed one-timers
+C1503,113,1,1000.0,2,1,1,Lapsed one-timers
+C1504,113,1,2720.0,2,1,1,Lapsed one-timers
+C1505,100,1,1420.0,2,1,1,Lapsed one-timers
+C1506,120,1,14390.0,2,1,4,Lapsed one-timers
+C1507,61,2,23050.0,3,2,5,Occasional
+C1508,30,2,2460.0,5,2,1,Occasional
+C1509,105,1,6130.0,2,1,2,Lapsed one-timers
+C1510,5,3,29860.0,5,3,5,Loyal
+C1511,100,1,9610.0,2,1,3,Lapsed one-timers
+C1512,106,1,4050.0,2,1,1,Lapsed one-timers
+C1513,17,3,36290.0,5,3,5,Loyal
+C1514,106,1,8060.0,2,1,3,Lapsed one-timers
+C1515,6,2,14250.0,5,2,4,Occasional
+C1516,94,1,6080.0,2,1,2,Lapsed one-timers
+C1517,120,1,1680.0,2,1,1,Lapsed one-timers
+C1518,25,2,21910.0,5,2,5,Occasional
+C1519,100,1,5390.0,2,1,2,Lapsed one-timers
+C1520,31,2,16740.0,4,2,4,Occasional
+C1521,122,1,4360.0,2,1,1,Lapsed one-timers
+C1522,121,1,7920.0,2,1,3,Lapsed one-timers
+C1523,107,1,4580.0,2,1,2,Lapsed one-timers
+C1524,116,1,3170.0,2,1,1,Lapsed one-timers
+C1525,120,1,10940.0,2,1,4,Lapsed one-timers
+C1526,115,1,5080.0,2,1,2,Lapsed one-timers
+C1527,121,1,5640.0,2,1,2,Lapsed one-timers
+C1528,100,1,14190.0,2,1,4,Lapsed one-timers
+C1529,95,1,1080.0,2,1,1,Lapsed one-timers
+C1530,106,1,17100.0,2,1,4,Lapsed one-timers
+C1531,102,1,12310.0,2,1,4,Lapsed one-timers
+C1532,117,1,3320.0,2,1,1,Lapsed one-timers
+C1533,91,2,67140.0,2,2,5,Lapsed one-timers
+C1534,38,3,4580.0,4,3,2,Loyal
+C1535,118,1,4340.0,2,1,1,Lapsed one-timers
+C1536,99,1,4190.0,2,1,1,Lapsed one-timers
+C1537,120,1,6810.0,2,1,3,Lapsed one-timers
+C1538,29,3,46090.0,5,3,5,Loyal
+C1539,68,2,3880.0,3,2,1,Occasional
+C1540,12,2,11530.0,5,2,4,Occasional
+C1541,104,1,8560.0,2,1,3,Lapsed one-timers
+C1542,115,1,3070.0,2,1,1,Lapsed one-timers
+C1543,75,2,15990.0,3,2,4,Occasional
+C1544,14,3,39350.0,5,3,5,Loyal
+C1545,111,1,5690.0,2,1,2,Lapsed one-timers
+C1546,110,1,6700.0,2,1,2,Lapsed one-timers
+C1547,14,3,44640.0,5,3,5,Loyal
+C1548,61,2,11280.0,3,2,4,Occasional
+C1549,69,2,25920.0,3,2,5,Occasional
+C1550,115,1,2090.0,2,1,1,Lapsed one-timers
+C1551,63,2,40260.0,3,2,5,Occasional
+C1552,37,2,34920.0,4,2,5,Occasional
+C1553,54,2,11800.0,4,2,4,Occasional
+C1554,110,1,24800.0,2,1,5,Lapsed one-timers
+C1555,117,1,6980.0,2,1,3,Lapsed one-timers
+C1556,77,2,34160.0,3,2,5,Occasional
+C1557,94,1,850.0,2,1,1,Lapsed one-timers
+C1558,114,1,7840.0,2,1,3,Lapsed one-timers
+C1559,118,1,3750.0,2,1,1,Lapsed one-timers
+C1560,93,1,3180.0,2,1,1,Lapsed one-timers
+C1561,108,1,6940.0,2,1,3,Lapsed one-timers
+C1562,97,1,4790.0,2,1,2,Lapsed one-timers
+C1563,96,1,8040.0,2,1,3,Lapsed one-timers
+C1564,53,2,6320.0,4,2,2,Occasional
+C1565,101,1,11600.0,2,1,4,Lapsed one-timers
+C1566,111,1,6890.0,2,1,3,Lapsed one-timers
+C1567,75,2,2050.0,3,2,1,Occasional
+C1568,113,1,10240.0,2,1,3,Lapsed one-timers
+C1569,115,1,1080.0,2,1,1,Lapsed one-timers
+C1570,60,3,37310.0,4,3,5,Loyal
+C1571,115,1,18330.0,2,1,4,Lapsed one-timers
+C1572,104,1,7740.0,2,1,3,Lapsed one-timers
+C1573,109,1,7690.0,2,1,3,Lapsed one-timers
+C1574,118,1,3010.0,2,1,1,Lapsed one-timers
+C1575,17,2,32910.0,5,2,5,Occasional
+C1576,109,1,7140.0,2,1,3,Lapsed one-timers
+C1577,103,1,5420.0,2,1,2,Lapsed one-timers
+C1578,103,1,2010.0,2,1,1,Lapsed one-timers
+C1579,99,1,1590.0,2,1,1,Lapsed one-timers
+C1580,101,1,4390.0,2,1,1,Lapsed one-timers
+C1581,112,1,3900.0,2,1,1,Lapsed one-timers
+C1582,116,1,5240.0,2,1,2,Lapsed one-timers
+C1583,54,2,13720.0,4,2,4,Occasional
+C1584,59,2,47510.0,4,2,5,Occasional
+C1585,74,1,7020.0,3,1,3,Occasional
+C1586,68,1,5220.0,3,1,2,Occasional
+C1587,82,1,4770.0,3,1,2,Occasional
+C1588,48,2,14430.0,4,2,4,Occasional
+C1589,28,2,11860.0,5,2,4,Occasional
+C1590,83,1,10460.0,3,1,3,Occasional
+C1591,87,1,6300.0,3,1,2,Occasional
+C1592,64,1,7450.0,3,1,3,Occasional
+C1593,74,1,6330.0,3,1,2,Occasional
+C1594,5,2,16290.0,5,2,4,Occasional
+C1595,82,1,3800.0,3,1,1,Occasional
+C1596,73,1,6180.0,3,1,2,Occasional
+C1597,89,1,5350.0,3,1,2,Occasional
+C1598,14,2,24220.0,5,2,5,Occasional
+C1599,29,2,51330.0,5,2,5,Occasional
+C1600,71,1,6190.0,3,1,2,Occasional
+C1601,74,1,15170.0,3,1,4,Occasional
+C1602,2,3,53560.0,5,3,5,Loyal
+C1603,73,1,11200.0,3,1,4,Occasional
+C1604,86,1,11910.0,3,1,4,Occasional
+C1605,74,1,4610.0,3,1,2,Occasional
+C1606,54,2,21780.0,4,2,5,Occasional
+C1607,91,1,10440.0,2,1,3,Lapsed one-timers
+C1608,34,2,24460.0,4,2,5,Occasional
+C1609,83,1,11960.0,3,1,4,Occasional
+C1610,75,1,3840.0,3,1,1,Occasional
+C1611,71,1,6660.0,3,1,2,Occasional
+C1612,52,2,33540.0,4,2,5,Occasional
+C1613,82,1,17620.0,3,1,4,Occasional
+C1614,73,1,11350.0,3,1,4,Occasional
+C1615,25,2,22230.0,5,2,5,Occasional
+C1616,19,2,23810.0,5,2,5,Occasional
+C1617,53,2,27230.0,4,2,5,Occasional
+C1618,81,1,6350.0,3,1,2,Occasional
+C1619,92,1,2880.0,2,1,1,Lapsed one-timers
+C1620,76,1,6760.0,3,1,2,Occasional
+C1621,83,1,15360.0,3,1,4,Occasional
+C1622,75,1,6080.0,3,1,2,Occasional
+C1623,82,1,7700.0,3,1,3,Occasional
+C1624,84,1,4640.0,3,1,2,Occasional
+C1625,74,1,3240.0,3,1,1,Occasional
+C1626,71,1,11100.0,3,1,4,Occasional
+C1627,20,3,58670.0,5,3,5,Loyal
+C1628,68,1,4090.0,3,1,1,Occasional
+C1629,82,1,6170.0,3,1,2,Occasional
+C1630,77,1,10440.0,3,1,3,Occasional
+C1631,83,1,2040.0,3,1,1,Occasional
+C1632,21,3,91330.0,5,3,5,Loyal
+C1633,62,1,8200.0,3,1,3,Occasional
+C1634,91,1,2190.0,2,1,1,Lapsed one-timers
+C1635,67,1,8380.0,3,1,3,Occasional
+C1636,29,3,61960.0,5,3,5,Loyal
+C1637,28,2,11300.0,5,2,4,Occasional
+C1638,72,1,22640.0,3,1,5,Occasional
+C1639,44,2,37270.0,4,2,5,Occasional
+C1640,10,2,21900.0,5,2,5,Occasional
+C1641,92,1,3520.0,2,1,1,Lapsed one-timers
+C1642,22,3,59450.0,5,3,5,Loyal
+C1643,88,1,2900.0,3,1,1,Occasional
+C1644,87,1,2890.0,3,1,1,Occasional
+C1645,28,3,4320.0,5,3,1,Loyal
+C1646,92,1,3330.0,2,1,1,Lapsed one-timers
+C1647,68,1,6580.0,3,1,2,Occasional
+C1648,63,1,7450.0,3,1,3,Occasional
+C1649,76,1,35670.0,3,1,5,Occasional
+C1650,64,1,6600.0,3,1,2,Occasional
+C1651,84,1,8700.0,3,1,3,Occasional
+C1652,71,1,13480.0,3,1,4,Occasional
+C1653,13,2,21650.0,5,2,5,Occasional
+C1654,53,2,14980.0,4,2,4,Occasional
+C1655,91,1,13910.0,2,1,4,Lapsed one-timers
+C1656,15,2,31050.0,5,2,5,Occasional
+C1657,87,1,5620.0,3,1,2,Occasional
+C1658,91,1,3430.0,2,1,1,Lapsed one-timers
+C1659,91,1,2540.0,2,1,1,Lapsed one-timers
+C1660,76,1,4470.0,3,1,1,Occasional
+C1661,10,2,15600.0,5,2,4,Occasional
+C1662,9,3,52010.0,5,3,5,Loyal
+C1663,14,2,4030.0,5,2,1,Occasional
+C1664,80,1,11760.0,3,1,4,Occasional
+C1665,86,1,10120.0,3,1,3,Occasional
+C1666,75,1,10750.0,3,1,3,Occasional
+C1667,36,2,14240.0,4,2,4,Occasional
+C1668,91,1,7040.0,2,1,3,Lapsed one-timers
+C1669,73,1,5150.0,3,1,2,Occasional
+C1670,85,1,7660.0,3,1,3,Occasional
+C1671,35,2,11070.0,4,2,4,Occasional
+C1672,91,1,8940.0,2,1,3,Lapsed one-timers
+C1673,76,1,7100.0,3,1,3,Occasional
+C1674,61,2,2890.0,3,2,1,Occasional
+C1675,73,1,8520.0,3,1,3,Occasional
+C1676,92,1,4960.0,2,1,2,Lapsed one-timers
+C1677,44,2,20850.0,4,2,4,Occasional
+C1678,70,1,17630.0,3,1,4,Occasional
+C1679,67,1,13350.0,3,1,4,Occasional
+C1680,78,1,5040.0,3,1,2,Occasional
+C1681,85,1,1740.0,3,1,1,Occasional
+C1682,83,1,1710.0,3,1,1,Occasional
+C1683,52,2,3140.0,4,2,1,Occasional
+C1684,85,1,5380.0,3,1,2,Occasional
+C1685,29,3,65620.0,5,3,5,Loyal
+C1686,23,2,23650.0,5,2,5,Occasional
+C1687,74,1,4440.0,3,1,1,Occasional
+C1688,78,1,5510.0,3,1,2,Occasional
+C1689,73,1,5540.0,3,1,2,Occasional
+C1690,69,1,6550.0,3,1,2,Occasional
+C1691,63,1,1910.0,3,1,1,Occasional
+C1692,70,1,5250.0,3,1,2,Occasional
+C1693,68,1,6920.0,3,1,3,Occasional
+C1694,86,1,20740.0,3,1,4,Occasional
+C1695,71,1,1640.0,3,1,1,Occasional
+C1696,68,1,810.0,3,1,1,Occasional
+C1697,91,1,14250.0,2,1,4,Lapsed one-timers
+C1698,84,1,6470.0,3,1,2,Occasional
+C1699,64,1,5710.0,3,1,2,Occasional
+C1700,89,1,6860.0,3,1,3,Occasional
+C1701,73,1,8570.0,3,1,3,Occasional
+C1702,42,1,17540.0,4,1,4,New
+C1703,57,1,20590.0,4,1,4,New
+C1704,35,1,6690.0,4,1,2,New
+C1705,22,2,2490.0,5,2,1,Occasional
+C1706,57,1,14970.0,4,1,4,New
+C1707,61,1,3850.0,3,1,1,Occasional
+C1708,42,1,3090.0,4,1,1,New
+C1709,10,2,7740.0,5,2,3,Occasional
+C1710,44,1,2930.0,4,1,1,New
+C1711,48,1,5920.0,4,1,2,New
+C1712,28,2,17970.0,5,2,4,Occasional
+C1713,9,2,35130.0,5,2,5,Occasional
+C1714,11,2,4030.0,5,2,1,Occasional
+C1715,61,1,5170.0,3,1,2,Occasional
+C1716,59,1,8270.0,4,1,3,New
+C1717,15,2,24170.0,5,2,5,Occasional
+C1718,40,1,12100.0,4,1,4,New
+C1719,44,1,5850.0,4,1,2,New
+C1720,9,2,3700.0,5,2,1,Occasional
+C1721,37,1,3640.0,4,1,1,New
+C1722,35,1,9510.0,4,1,3,New
+C1723,60,1,6710.0,4,1,2,New
+C1724,14,2,4180.0,5,2,1,Occasional
+C1725,60,1,6040.0,4,1,2,New
+C1726,35,1,3820.0,4,1,1,New
+C1727,39,1,4170.0,4,1,1,New
+C1728,41,1,4420.0,4,1,1,New
+C1729,12,2,44700.0,5,2,5,Occasional
+C1730,47,1,1630.0,4,1,1,New
+C1731,38,1,4140.0,4,1,1,New
+C1732,53,1,1560.0,4,1,1,New
+C1733,41,1,13950.0,4,1,4,New
+C1734,48,1,6390.0,4,1,2,New
+C1735,4,2,39980.0,5,2,5,Occasional
+C1736,51,1,6590.0,4,1,2,New
+C1737,59,1,3810.0,4,1,1,New
+C1738,32,1,5710.0,4,1,2,New
+C1739,52,1,4120.0,4,1,1,New
+C1740,35,1,4110.0,4,1,1,New
+C1741,36,1,8030.0,4,1,3,New
+C1742,36,1,4230.0,4,1,1,New
+C1743,7,2,23550.0,5,2,5,Occasional
+C1744,40,1,11170.0,4,1,4,New
+C1745,42,1,6420.0,4,1,2,New
+C1746,36,1,8480.0,4,1,3,New
+C1747,35,1,10860.0,4,1,3,New
+C1748,7,2,24750.0,5,2,5,Occasional
+C1749,20,2,17650.0,5,2,4,Occasional
+C1750,61,1,4180.0,3,1,1,Occasional
+C1751,34,1,8680.0,4,1,3,New
+C1752,50,1,5590.0,4,1,2,New
+C1753,53,1,6030.0,4,1,2,New
+C1754,28,2,10580.0,5,2,3,Occasional
+C1755,38,1,8450.0,4,1,3,New
+C1756,28,2,6330.0,5,2,2,Occasional
+C1757,55,1,12790.0,4,1,4,New
+C1758,39,1,10530.0,4,1,3,New
+C1759,31,1,9690.0,4,1,3,New
+C1760,14,2,25420.0,5,2,5,Occasional
+C1761,28,2,28270.0,5,2,5,Occasional
+C1762,48,1,3250.0,4,1,1,New
+C1763,41,1,3840.0,4,1,1,New
+C1764,40,1,7910.0,4,1,3,New
+C1765,18,2,28420.0,5,2,5,Occasional
+C1766,31,1,11560.0,4,1,4,New
+C1767,59,1,1290.0,4,1,1,New
+C1768,53,1,3790.0,4,1,1,New
+C1769,59,1,7790.0,4,1,3,New
+C1770,39,1,7120.0,4,1,3,New
+C1771,31,1,11350.0,4,1,4,New
+C1772,7,2,13100.0,5,2,4,Occasional
+C1773,43,1,3150.0,4,1,1,New
+C1774,50,1,17280.0,4,1,4,New
+C1775,34,1,9870.0,4,1,3,New
+C1776,41,1,1450.0,4,1,1,New
+C1777,45,1,11530.0,4,1,4,New
+C1778,35,1,6210.0,4,1,2,New
+C1779,55,1,5340.0,4,1,2,New
+C1780,29,2,3460.0,5,2,1,Occasional
+C1781,45,1,3620.0,4,1,1,New
+C1782,50,1,6540.0,4,1,2,New
+C1783,6,2,45030.0,5,2,5,Occasional
+C1784,33,1,2120.0,4,1,1,New
+C1785,37,1,5970.0,4,1,2,New
+C1786,49,1,1290.0,4,1,1,New
+C1787,51,1,2080.0,4,1,1,New
+C1788,52,1,7620.0,4,1,3,New
+C1789,24,1,5400.0,5,1,2,New
+C1790,28,1,15510.0,5,1,4,New
+C1791,1,1,5030.0,5,1,2,New
+C1792,13,1,1390.0,5,1,1,New
+C1793,28,1,3390.0,5,1,1,New
+C1794,23,1,4090.0,5,1,1,New
+C1795,10,1,4840.0,5,1,2,New
+C1796,28,1,13610.0,5,1,4,New
+C1797,15,1,4960.0,5,1,2,New
+C1798,4,1,21580.0,5,1,4,New
+C1799,3,1,8010.0,5,1,3,New
+C1800,25,1,3840.0,5,1,1,New
+C1801,10,1,10040.0,5,1,3,New
+C1802,28,1,20640.0,5,1,4,New
+C1803,24,1,6550.0,5,1,2,New
+C1804,2,1,17260.0,5,1,4,New
+C1805,22,1,1140.0,5,1,1,New
+C1806,14,1,5350.0,5,1,2,New
+C1807,16,1,9990.0,5,1,3,New
+C1808,30,1,17210.0,5,1,4,New
+C1809,23,1,6530.0,5,1,2,New
+C1810,16,1,8410.0,5,1,3,New
+C1811,19,1,27710.0,5,1,5,New
+C1812,4,1,10120.0,5,1,3,New
+C1813,7,1,6680.0,5,1,2,New
+C1814,30,1,5750.0,5,1,2,New
+C1815,4,1,6430.0,5,1,2,New
+C1816,7,1,1230.0,5,1,1,New
+C1817,16,1,10120.0,5,1,3,New
+C1818,30,1,4720.0,5,1,2,New
+C1819,26,1,5870.0,5,1,2,New
+C1820,23,1,2130.0,5,1,1,New
+C1821,14,1,1320.0,5,1,1,New
+C1822,27,1,9310.0,5,1,3,New
+C1823,3,1,4410.0,5,1,1,New
+C1824,17,1,7600.0,5,1,3,New
+C1825,12,1,14890.0,5,1,4,New
+C1826,26,1,7070.0,5,1,3,New
+C1827,5,1,10470.0,5,1,3,New
+C1828,13,1,26250.0,5,1,5,New
+C1829,20,1,14400.0,5,1,4,New
+C1830,14,1,13170.0,5,1,4,New
+C1831,11,1,890.0,5,1,1,New
+C1832,30,1,8400.0,5,1,3,New
+C1833,17,1,800.0,5,1,1,New
+C1834,19,1,5270.0,5,1,2,New
+C1835,25,1,3990.0,5,1,1,New
+C1836,30,1,7460.0,5,1,3,New
+C1837,30,1,13800.0,5,1,4,New
+C1838,30,1,5770.0,5,1,2,New
+C1839,11,1,10690.0,5,1,3,New
+C1840,6,1,8190.0,5,1,3,New
+C1841,16,1,7620.0,5,1,3,New
+C1842,3,1,4730.0,5,1,2,New
+C1843,19,1,6170.0,5,1,2,New
+C1844,21,1,1390.0,5,1,1,New
+C1845,7,1,11450.0,5,1,4,New
+C1846,17,1,16400.0,5,1,4,New
+C1847,8,1,15860.0,5,1,4,New
+C1848,15,1,2180.0,5,1,1,New
+C1849,3,1,4630.0,5,1,2,New
+C1850,25,1,4360.0,5,1,1,New
+C1851,25,1,4230.0,5,1,1,New
+C1852,23,1,3730.0,5,1,1,New
+C1853,8,1,8700.0,5,1,3,New
+C1854,29,1,25440.0,5,1,5,New
+C1855,5,1,2540.0,5,1,1,New
+C1856,11,1,3680.0,5,1,1,New
+C1857,3,1,8960.0,5,1,3,New
+C1858,3,1,8140.0,5,1,3,New
+C1859,30,1,1500.0,5,1,1,New
+C1860,3,1,10060.0,5,1,3,New
+C1861,28,1,5360.0,5,1,2,New
+C1862,15,1,4500.0,5,1,2,New
+C1863,15,1,6200.0,5,1,2,New
+C1864,24,1,9310.0,5,1,3,New
+C1865,3,1,5280.0,5,1,2,New
+C1866,10,1,10520.0,5,1,3,New
+C1867,4,1,5240.0,5,1,2,New
+C1868,9,1,4970.0,5,1,2,New
+C1869,15,1,2570.0,5,1,1,New
+C1870,16,1,7660.0,5,1,3,New
+C1871,1,1,4790.0,5,1,2,New
+C1872,5,1,2160.0,5,1,1,New
+C1873,28,1,9550.0,5,1,3,New
+C1874,18,1,1930.0,5,1,1,New
+C1875,30,1,2630.0,5,1,1,New
+C1876,25,1,5180.0,5,1,2,New
+C1877,4,1,18340.0,5,1,4,New
+C1878,22,1,2290.0,5,1,1,New
+C1879,19,1,4970.0,5,1,2,New
+C1880,29,1,4850.0,5,1,2,New
+C1881,8,1,3300.0,5,1,1,New
+C1882,20,1,7070.0,5,1,3,New
+C1883,26,1,2290.0,5,1,1,New
+C1884,27,1,10690.0,5,1,3,New
+C1885,23,1,4340.0,5,1,1,New
+C1886,28,1,6090.0,5,1,2,New
+C1887,26,1,12020.0,5,1,4,New
+C1888,6,1,3730.0,5,1,1,New
+C1889,21,1,1840.0,5,1,1,New
+C1890,23,1,5110.0,5,1,2,New
+C1891,4,1,18440.0,5,1,4,New

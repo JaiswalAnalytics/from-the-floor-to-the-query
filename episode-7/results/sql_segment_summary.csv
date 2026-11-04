@@ -1,0 +1,7 @@
+segment,customers,customer_share_pct,revenue,revenue_share_pct,avg_orders,avg_spend,avg_recency_days
+Champions,106,6.6,10101300.0,31.4,6.6,95295.0,26.0
+Lapsed one-timers,804,49.7,6931530.0,21.5,1.2,8621.0,207.0
+Loyal,135,8.3,5543520.0,17.2,3.7,41063.0,41.0
+At risk,109,6.7,4754940.0,14.8,3.9,43623.0,159.0
+Occasional,274,16.9,3480010.0,10.8,1.7,12701.0,53.0
+New,189,11.7,1384000.0,4.3,1.0,7323.0,27.0

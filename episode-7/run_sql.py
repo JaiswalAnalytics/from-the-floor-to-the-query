@@ -1,0 +1,15 @@
+import os, duckdb
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+con = duckdb.connect()
+con.execute("CREATE TABLE orders AS SELECT order_id, customer_id, CAST(order_date AS DATE) order_date, order_value FROM read_csv_auto('data/orders.csv')")
+con.execute("CREATE TABLE customers AS SELECT * FROM read_csv_auto('data/customers.csv')")
+con.execute("CREATE VIEW rfm_segments AS " + open("sql/rfm_segments.sql").read().rstrip().rstrip(";"))
+con.execute("SELECT * FROM rfm_segments ORDER BY customer_id").df().to_csv("results/sql_rfm_customers.csv", index=False)
+summary = con.execute(open("sql/segment_summary.sql").read()).df()
+summary.to_csv("results/sql_segment_summary.csv", index=False)
+print(summary.to_string(index=False))
+mix = con.execute("""SELECT s.segment, c.customer_type, COUNT(*) AS customers
+                     FROM rfm_segments s JOIN customers c USING (customer_id)
+                     GROUP BY 1, 2 ORDER BY 1, 3 DESC""").df()
+mix.to_csv("results/sql_segment_by_type.csv", index=False)
+print(); print(mix.pivot(index="segment", columns="customer_type", values="customers").fillna(0).astype(int).to_string())

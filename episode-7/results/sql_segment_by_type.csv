@@ -1,0 +1,19 @@
+segment,customer_type,customers
+At risk,Contractor,66
+At risk,Small repair,29
+At risk,Homeowner,14
+Champions,Contractor,99
+Champions,Small repair,6
+Champions,Homeowner,1
+Lapsed one-timers,Homeowner,640
+Lapsed one-timers,Small repair,102
+Lapsed one-timers,Contractor,62
+Loyal,Contractor,67
+Loyal,Small repair,44
+Loyal,Homeowner,24
+New,Homeowner,138
+New,Contractor,27
+New,Small repair,24
+Occasional,Homeowner,187
+Occasional,Small repair,46
+Occasional,Contractor,41
