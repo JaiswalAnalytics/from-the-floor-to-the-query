@@ -30,7 +30,7 @@ Every episode has its own folder with its own README, code and data.
 | 4  | [Seasonal demand forecasting](https://github.com/JaiswalAnalytics/from-the-floor-to-the-query/blob/main/episode-4) | Python | Published |
 | 5 | [Repeat purchase cohorts](https://github.com/JaiswalAnalytics/from-the-floor-to-the-query/blob/main/episode-5) | SQL | Published |
 | 6 | [Unit economics of a retail store](https://github.com/JaiswalAnalytics/from-the-floor-to-the-query/blob/main/episode-6) | Full model | Published |
-| 7 | Customer segmentation (RFM) | SQL, Python | Coming soon |
+| 7 | [Customer segmentation (RFM)](https://github.com/JaiswalAnalytics/from-the-floor-to-the-query/blob/main/episode-7) | SQL + Python | Published |
 | 8 | Price elasticity | Python, statistics | Coming soon |
 | 9 | Supplier performance scorecard | SQL, DAX | Coming soon |
 | 10 | Working capital cycle | Python, Excel | Coming soon |
