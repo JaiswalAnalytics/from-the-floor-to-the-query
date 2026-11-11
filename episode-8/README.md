@@ -2,6 +2,8 @@
 
 # Episode 8: Price elasticity (Python + stats)
 
+![Episode 8 cover: price elasticity](cover.png)
+
 *From the Floor to the Query. Real business problems. Real code. One analyst who's seen both sides.*
 
 ## The problem
