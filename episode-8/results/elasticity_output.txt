@@ -1,0 +1,18 @@
+           sku  price_changes  naive_e  model_e  model_se  ci_low  ci_high  true_e  true_in_ci
+ Cement OPC 53             18     0.81    -0.76      0.44   -1.62     0.11    -0.6        True
+  TMT Bar 12mm             22    -0.05    -0.74      0.13   -0.99    -0.49    -0.9        True
+    River Sand             21     2.53    -0.27      0.21   -0.67     0.14    -0.4        True
+Emulsion Paint             21    -1.21    -1.49      0.14   -1.77    -1.22    -1.8       False
+    Wall Putty             25    -1.90    -1.43      0.15   -1.72    -1.14    -1.4        True
+Floor Tile 2x2             26    -1.10    -2.14      0.16   -2.45    -1.83    -2.1        True
+
+           sku  margin  breakeven_uplift_pct  model_uplift_pct  gp_change_model  gp_change_naive  gp_change_true
+ Cement OPC 53    0.04                408.03              2.33       -226637.96       -229309.18      -226910.87
+  TMT Bar 12mm    0.11                 39.03              2.27        -29430.76        -31135.93       -29023.50
+    River Sand    0.11                 37.69              0.81        -21124.27        -25844.74       -20888.01
+Emulsion Paint    0.14                 28.07              4.66       -135818.43       -141113.24      -130141.55
+    Wall Putty    0.16                 22.38              4.46        -72055.06        -65971.75       -72452.59
+Floor Tile 2x2    0.14                 28.29              6.75        -39071.21        -45103.37       -39325.44
+
+Annual gross profit: 1941542 | revenue: 19496117
+3% cut, gross profit change (model): -524138 | naive: -538478 | true: -518742
