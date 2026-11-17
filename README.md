@@ -32,7 +32,7 @@ Every episode has its own folder with its own README, code and data.
 | 6 | [Unit economics of a retail store](https://github.com/JaiswalAnalytics/from-the-floor-to-the-query/blob/main/episode-6) | Full model | Published |
 | 7 | [Customer segmentation (RFM)](https://github.com/JaiswalAnalytics/from-the-floor-to-the-query/blob/main/episode-7) | SQL + Python | Published |
 | 8 | [Price elasticity](https://github.com/JaiswalAnalytics/from-the-floor-to-the-query/blob/main/episode-8) | Python + stats | Published |
-| 9 | Supplier performance scorecard | SQL, DAX | Coming soon |
+| 9 | [Supplier performance scorecard](https://github.com/JaiswalAnalytics/from-the-floor-to-the-query/blob/main/episode-9) | SQL + DAX | Published |
 | 10 | Working capital cycle | Python, Excel | Coming soon |
 
 ## What is inside each episode folder
