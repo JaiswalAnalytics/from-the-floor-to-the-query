@@ -1,0 +1,67 @@
+// ============================================================================
+// Episode 9: Supplier scorecard, DAX measures.   STATUS: NOT RUN (no Power BI here).
+// Written by logic only. Check these expected values in Power BI. They come from
+// the SQL (sql/scorecard.sql), which was cross-checked against independent pandas.
+//
+// Model: one table PurchaseOrders loaded from data/purchase_orders.csv
+//   (columns: po_id, supplier, category, order_date, promised_date, received_date,
+//    qty_ordered, qty_received, qty_rejected, market_rate, quoted_rate, invoiced_rate)
+//   Put PurchaseOrders[supplier] on a table visual's rows and add the measures below.
+//   Make sure promised_date and received_date are Date type.
+//
+// Expected values per supplier (sorted by score):
+// Yadav Sand Supply    on-time  87.8 | fill  97.6 | reject  1.5 | price idx 0.984 | usable idx 1.000 | score  86.1 | rank 1
+// Sharma Cement        on-time  92.7 | fill  99.6 | reject  0.8 | price idx 1.012 | usable idx 1.020 | score  86.1 | rank 2
+// Dubey Hardware       on-time  71.6 | fill  95.2 | reject  1.2 | price idx 0.974 | usable idx 0.985 | score  82.3 | rank 3
+// Chauhan Pipes        on-time  94.7 | fill  99.5 | reject  0.4 | price idx 1.061 | usable idx 1.066 | score  81.9 | rank 4
+// Saxena Electricals   on-time  87.1 | fill  97.2 | reject  1.5 | price idx 1.031 | usable idx 1.046 | score  79.0 | rank 5
+// Pandey Paints        on-time  82.9 | fill  98.3 | reject  0.6 | price idx 1.043 | usable idx 1.049 | score  78.1 | rank 6
+// Tiwari Steel         on-time  61.1 | fill  93.0 | reject  3.4 | price idx 0.954 | usable idx 0.987 | score  75.6 | rank 7
+// Mehta Tiles          on-time  72.5 | fill  95.5 | reject  4.3 | price idx 0.998 | usable idx 1.043 | score  71.2 | rank 8
+// Totals: 700 purchase orders, paid value Rs 4,09,63,330.
+// ============================================================================
+
+PO Count = COUNTROWS ( PurchaseOrders )
+
+On Time % =
+DIVIDE (
+    COUNTROWS (
+        FILTER ( PurchaseOrders, PurchaseOrders[received_date] <= PurchaseOrders[promised_date] )
+    ),
+    [PO Count]
+) * 100
+
+Fill % = DIVIDE ( SUM ( PurchaseOrders[qty_received] ), SUM ( PurchaseOrders[qty_ordered] ) ) * 100
+
+Reject % = DIVIDE ( SUM ( PurchaseOrders[qty_rejected] ), SUM ( PurchaseOrders[qty_received] ) ) * 100
+
+Paid Value = SUMX ( PurchaseOrders, PurchaseOrders[invoiced_rate] * PurchaseOrders[qty_received] )
+
+Market Value Received = SUMX ( PurchaseOrders, PurchaseOrders[market_rate] * PurchaseOrders[qty_received] )
+
+Market Value Usable =
+SUMX (
+    PurchaseOrders,
+    PurchaseOrders[market_rate] * ( PurchaseOrders[qty_received] - PurchaseOrders[qty_rejected] )
+)
+
+// Ratio of sums, not an average of per-order ratios: big orders count for more.
+Price Index = DIVIDE ( [Paid Value], [Market Value Received] )
+
+// What you pay per unit you can actually use. Assumes rejected units are paid for.
+Usable Price Index = DIVIDE ( [Paid Value], [Market Value Usable] )
+
+// Points, 0 to 100. Same formulas as the SQL.
+Quality Pts = MAX ( 0, 100 - 10 * [Reject %] )
+
+Price Pts = MIN ( 100, MAX ( 0, 100 - 1000 * ( [Price Index] - 0.95 ) ) )
+
+// Weights are an ASSUMPTION: on time 35, fill 25, quality 25, price 15.
+Score = 0.35 * [On Time %] + 0.25 * [Fill %] + 0.25 * [Quality Pts] + 0.15 * [Price Pts]
+
+Score Price First = 0.15 * [On Time %] + 0.10 * [Fill %] + 0.25 * [Quality Pts] + 0.50 * [Price Pts]
+
+// Rank across suppliers: ALL removes the supplier filter so every supplier is in the list.
+Score Rank = RANKX ( ALL ( PurchaseOrders[supplier] ), [Score], , DESC, Skip )
+
+Price Rank = RANKX ( ALL ( PurchaseOrders[supplier] ), [Price Index], , ASC, Skip )

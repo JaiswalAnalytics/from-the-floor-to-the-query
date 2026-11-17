@@ -1,0 +1,15 @@
+exact scores: {'Yadav Sand Supply': 86.125181, 'Sharma Cement': 86.078874, 'Dubey Hardware': 82.347592, 'Chauhan Pipes': 81.910551, 'Saxena Electricals': 79.048768, 'Pandey Paints': 78.104181, 'Tiwari Steel': 75.582685, 'Mehta Tiles': 71.221978}
+pos                  max diff 0.000000 (allowed 0.5000)
+on_time_pct          max diff 0.047368 (allowed 0.0500)
+avg_days_late        max diff 0.050000 (allowed 0.0500)
+fill_pct             max diff 0.049513 (allowed 0.0500)
+reject_pct           max diff 0.049548 (allowed 0.0500)
+price_idx            max diff 0.000449 (allowed 0.0005)
+usable_price_idx     max diff 0.000446 (allowed 0.0005)
+paid_value           max diff 0.460000 (allowed 0.5000)
+score                max diff 0.048768 (allowed 0.0500)
+score_price_first    max diff 0.048242 (allowed 0.0500)
+price_rank           mismatches 0
+score_rank           mismatches 0
+price_first_rank     mismatches 0
+ALL MATCH
