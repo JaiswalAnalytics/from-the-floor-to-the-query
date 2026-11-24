@@ -1,0 +1,17 @@
+revenue            python  34,968,904.0000  sql  34,968,904.0000  diff 0.00000000
+cogs               python  31,939,529.0000  sql  31,939,529.0000  diff 0.00000000
+avg_inventory      python   2,773,863.0000  sql   2,773,863.0000  diff 0.00000000
+avg_receivables    python   2,856,251.5833  sql   2,856,251.5833  diff 0.00000000
+avg_payables       python   1,365,921.8333  sql   1,365,921.8333  diff 0.00000000
+dio                python          31.6993  sql          31.6993  diff 0.00000000
+dso                python          29.8131  sql          29.8131  diff 0.00000000
+dpo                python          15.6095  sql          15.6095  diff 0.00000000
+ccc                python          45.9028  sql          45.9028  diff 0.00000000
+working_capital    python   4,264,192.7500  sql   4,264,192.7500  diff 0.00000000
+carrying_cost      python     767,554.6950  sql     767,554.6950  diff 0.00000000
+lever1             python     627,495.6250  sql     627,495.6250  diff 0.00000000
+lever2             python     689,969.3973  sql     689,969.3973  diff 0.00000000
+lever3             python     437,527.7945  sql     437,527.7945  diff 0.00000000
+released           python   1,754,992.8168  sql   1,754,992.8168  diff 0.00000000
+ccc_after          python          26.5301  sql          26.5301  diff 0.00000000
+ALL MATCH (max diff 0.00000000)
